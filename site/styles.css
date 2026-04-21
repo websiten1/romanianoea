@@ -3408,3 +3408,179 @@ body.v2 .btn-outline:hover { background: var(--ink); color: #fff; }
   body.v2 .section__head h2 { font-size: 1.7rem; }
   body.v2 .news-card h3 { font-size: 1.15rem; }
 }
+
+/* ============================================================
+   V3.1 — Definitive typography & alignment overrides
+   These rules sit at the very end so they win against earlier
+   patriarhia-v2 rules (some of which used `.section .section__head`
+   selectors with higher specificity than my V3 base).
+   Goal: every section head, every paragraph, every list reads
+   the same way across the whole site — left-aligned, comfortable
+   measure, generous breathing room.
+   ============================================================ */
+
+/* --- Section heads: ALWAYS left-aligned, never centered --- */
+body.v2 .section .section__head,
+body.v2 .section__head {
+  text-align: left;
+  max-width: 880px;
+  margin: 0 0 56px;
+}
+body.v2 .section .section__head .eyebrow,
+body.v2 .section__head .eyebrow {
+  display: inline-block;
+  text-align: left;
+  color: var(--accent);
+  font-family: var(--sans);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .26em;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+body.v2 .section .section__head h2,
+body.v2 .section__head h2 {
+  text-align: left;
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-weight: 500;
+  color: var(--ink);
+  font-size: clamp(2rem, 4.4vw, 3.4rem);
+  line-height: 1.06;
+  letter-spacing: -.005em;
+  margin: 0 0 .25em;
+}
+/* Hide the small gold underline divider on every section head */
+body.v2 .section .section__head .divider,
+body.v2 .section__head hr,
+body.v2 .section__head .divider { display: none !important; }
+body.v2 .section .section__head p,
+body.v2 .section__head p {
+  text-align: left;
+  color: var(--ink-soft);
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.12rem;
+  line-height: 1.55;
+  margin: 14px 0 0;
+  max-width: 65ch;
+  width: auto;
+}
+
+/* --- Section--cream / section--dark heads also left, ink color --- */
+body.v2 .section--cream .section__head,
+body.v2 .section--dark .section__head { text-align: left; }
+body.v2 .section--dark .section__head h2 { color: var(--ink); }
+body.v2 .section--dark .section__head .eyebrow { color: var(--accent); }
+body.v2 .section--dark .section__head p { color: var(--ink-soft); }
+
+/* --- Affiliations: keep its head centered (it's a marquee strip) --- */
+body.v2 .affiliations__head {
+  text-align: center !important;
+  max-width: none;
+  margin: 0 auto 36px;
+}
+body.v2 .affiliations__head .eyebrow,
+body.v2 .affiliations__head h3 { text-align: center; }
+
+/* --- Donate band & quote band: keep their heads centered (these are full-width feature blocks) --- */
+body.v2 .donate-band > .container,
+body.v2 .quote > .container { text-align: center; }
+body.v2 .donate-band .eyebrow,
+body.v2 .donate-band h2,
+body.v2 .donate-band p,
+body.v2 .quote .eyebrow,
+body.v2 .quote blockquote,
+body.v2 .quote cite { text-align: center; }
+body.v2 .donate-band p { max-width: 680px; margin-left: auto; margin-right: auto; }
+
+/* --- Page-hero: definitively left-aligned --- */
+body.v2 .page-hero,
+body.v2 .page-hero > .container,
+body.v2 .page-hero .crumbs,
+body.v2 .page-hero h1,
+body.v2 .page-hero .lead { text-align: left !important; }
+body.v2 .page-hero h1 { max-width: 22ch; }
+body.v2 .page-hero .lead { max-width: 60ch; margin: 14px 0 0; }
+
+/* --- Universal paragraph baseline (where not already styled) --- */
+body.v2 main p,
+body.v2 .section p:not(.eyebrow):not(.lead-line):not(.signature):not(.acclamation):not(.scripture):not(.story):not(.salutation) {
+  font-family: var(--serif);
+  font-size: 1.08rem;
+  line-height: 1.7;
+  color: var(--ink-soft);
+}
+
+/* --- Card grids: keep card content left-aligned even if parent gets centered --- */
+body.v2 .news-card,
+body.v2 .camp-card,
+body.v2 .bishop {
+  text-align: left;
+}
+body.v2 .bishop { text-align: center; } /* bishop avatar layout is centered */
+
+/* --- Camp cards: cleaner type, left-aligned --- */
+body.v2 .camp-card {
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-top: 3px solid var(--accent);
+  padding: 28px 26px;
+}
+body.v2 .camp-card h3 {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 500;
+  color: var(--ink);
+  font-size: 1.4rem;
+  margin: 0 0 10px;
+}
+body.v2 .camp-card p {
+  font-family: var(--serif);
+  font-size: 1rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+body.v2 .camp-card__age {
+  background: transparent;
+  color: var(--accent);
+  padding: 0 0 8px;
+  font-family: var(--sans);
+  font-size: .66rem;
+  font-weight: 700;
+  letter-spacing: .26em;
+  text-transform: uppercase;
+}
+
+/* --- Contact card / letter typography uniformity --- */
+body.v2 .contact-card {
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  box-shadow: none;
+  padding: 32px;
+}
+body.v2 .contact-card h3 {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 500;
+  color: var(--accent);
+}
+body.v2 .contact-card p {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+/* --- Mobile typography rebalance --- */
+@media (max-width: 980px) {
+  body.v2 .section .section__head,
+  body.v2 .section__head { margin-bottom: 32px; }
+  body.v2 .section .section__head h2,
+  body.v2 .section__head h2 { font-size: clamp(1.7rem, 6vw, 2.2rem); }
+  body.v2 .section .section__head p,
+  body.v2 .section__head p { font-size: 1rem; }
+  body.v2 .donate-band p,
+  body.v2 .quote blockquote { padding: 0 4px; }
+  body.v2 main p,
+  body.v2 .section p:not(.eyebrow):not(.lead-line):not(.signature):not(.acclamation):not(.scripture):not(.story):not(.salutation) {
+    font-size: 1rem;
+  }
+}

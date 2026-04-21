@@ -910,61 +910,127 @@ body.drawer-open .nav-toggle::after {
 .site-footer {
   background: var(--paper);
   border-top: 1px solid var(--ink);
-  padding: 70px 0 40px;
+  padding: 80px 0 40px;
   color: var(--ink);
 }
 .footer-grid {
   display: grid;
-  grid-template-columns: 1.4fr repeat(3, 1fr);
-  gap: 40px;
+  grid-template-columns: 1.6fr repeat(3, 1fr);
+  gap: 56px;
+  align-items: flex-start;
 }
 .site-footer h4 {
   font-family: var(--sans);
-  font-size: .72rem;
+  font-size: .7rem;
   font-weight: 700;
-  letter-spacing: .28em;
+  letter-spacing: .3em;
   text-transform: uppercase;
   color: var(--ink);
-  margin: 0 0 16px;
+  margin: 0 0 18px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--ink);
 }
 .site-footer ul { list-style: none; padding: 0; margin: 0; }
 .site-footer ul li { margin: 0 0 10px; }
-.site-footer a { color: var(--ink); font-family: var(--sans); font-size: .9rem; }
+.site-footer a {
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: .92rem;
+  transition: color .2s ease, letter-spacing .2s ease;
+}
 .site-footer a:hover { color: var(--burgundy); }
 .site-footer p {
   font-family: var(--serif);
   font-size: 1rem;
   color: var(--ink-soft);
   line-height: 1.55;
+  margin: 0 0 10px;
 }
+.site-footer .brand__name {
+  font-family: var(--sans);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: .22em;
+  color: var(--ink);
+}
+.site-footer .brand__sub {
+  display: block;
+  font-family: var(--serif);
+  font-size: .86rem;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink-mute);
+  margin-top: 4px;
+}
+
 .socials {
   display: flex;
-  gap: 8px;
-  margin-top: 14px;
+  gap: 10px;
+  margin-top: 18px;
 }
 .socials a {
-  width: 36px; height: 36px;
+  width: 40px; height: 40px;
   display: inline-flex; align-items: center; justify-content: center;
   border: 1px solid var(--ink);
+  font-family: var(--sans);
   font-weight: 700;
-  font-size: .8rem;
+  font-size: .86rem;
   text-transform: uppercase;
+  transition: background-color .2s ease, color .2s ease, border-color .2s ease, transform .25s ease;
 }
-.socials a:hover { background: var(--burgundy); color: #fff; border-color: var(--burgundy); }
+.socials a:hover {
+  background: var(--burgundy);
+  color: #fff;
+  border-color: var(--burgundy);
+  transform: translateY(-2px);
+}
 .copyright {
   border-top: 1px solid var(--ink);
-  margin-top: 50px;
+  margin-top: 56px;
   padding-top: 22px;
   font-family: var(--sans);
   font-size: .72rem;
   color: var(--ink-mute);
-  letter-spacing: .04em;
+  letter-spacing: .06em;
+  text-align: center;
 }
+
+/* Tablet: 2 columns, first cell spans both. */
 @media (max-width: 880px) {
-  .footer-grid { grid-template-columns: 1fr 1fr; gap: 32px; }
+  .footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 40px 32px;
+  }
+  .footer-grid > div:first-child {
+    grid-column: 1 / -1;
+    text-align: center;
+  }
+  .footer-grid > div:first-child .brand { justify-content: center; }
+  .footer-grid > div:first-child .socials { justify-content: center; }
 }
-@media (max-width: 520px) {
-  .footer-grid { grid-template-columns: 1fr; }
+
+/* Mobile: single column, everything centered. */
+@media (max-width: 560px) {
+  .site-footer { padding: 60px 0 32px; }
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 36px;
+    text-align: center;
+  }
+  .footer-grid > div { display: flex; flex-direction: column; align-items: center; }
+  .footer-grid > div:first-child .brand { justify-content: center; }
+  .footer-grid > div:first-child .socials { justify-content: center; }
+  .site-footer h4 {
+    display: inline-block;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  .site-footer ul { width: 100%; }
+  .site-footer ul li { margin: 0 0 8px; }
+  .site-footer p { margin: 0 auto 8px; max-width: 280px; }
+  .copyright { margin-top: 36px; }
 }
 
 /* -------- Prose / article (pastoral letter, etc.) -------- */
@@ -1119,24 +1185,39 @@ body.drawer-open .nav-toggle::after {
 .value {
   border: 1px solid var(--ink);
   border-top: 4px solid var(--burgundy);
-  padding: 26px;
+  padding: 28px 26px 26px;
   background: var(--paper);
+  text-align: center;
+  transition: transform .3s ease, box-shadow .3s ease;
 }
+.value:hover { transform: translateY(-3px); box-shadow: 6px 6px 0 var(--ink); }
+
+/* Elegant serif numeral, no emoji. A thin circle around a burgundy roman
+   numeral — hairline, premium, strict-palette. */
 .value__icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 44px; height: 44px;
-  background: var(--burgundy);
-  color: #fff;
+  width: 58px; height: 58px;
+  background: transparent;
+  color: var(--burgundy);
   font-family: var(--serif);
-  font-size: 1.4rem;
-  font-weight: 600;
-  margin-bottom: 14px;
+  font-style: italic;
+  font-size: 1.55rem;
+  font-weight: 500;
+  letter-spacing: .02em;
+  border: 1px solid var(--ink);
+  border-radius: 50%;
+  margin: 0 auto 16px;
+  transition: background-color .25s ease, color .25s ease;
 }
-.value h3 {
+.value:hover .value__icon { background: var(--burgundy); color: #fff; border-color: var(--burgundy); }
+
+.value h3,
+.value h4 {
   font-family: var(--serif);
-  font-size: 1.3rem;
+  font-size: 1.25rem;
+  font-weight: 500;
   margin: 0 0 8px;
 }
 .value p {
@@ -1144,6 +1225,7 @@ body.drawer-open .nav-toggle::after {
   font-size: 1rem;
   color: var(--ink-soft);
   line-height: 1.6;
+  margin: 0;
 }
 
 /* -------- AROY band -------- */
@@ -1162,20 +1244,25 @@ body.drawer-open .nav-toggle::after {
 .bishop__avatar {
   width: 120px; height: 120px;
   margin: 0 auto 16px;
-  background: var(--burgundy);
-  color: #fff;
+  background: var(--paper);
+  color: var(--burgundy);
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: var(--serif);
-  font-size: 2.4rem;
+  font-style: italic;
+  font-size: 2.6rem;
   font-weight: 500;
+  border: 1px solid var(--ink);
+  border-radius: 50%;
   overflow: hidden;
+  box-shadow: 0 10px 26px rgba(0,0,0,.12);
 }
 .bishop__avatar img {
   width: 100%; height: 100%;
   object-fit: cover;
-  filter: grayscale(100%) contrast(1.05);
+  object-position: center 18%;
+  filter: grayscale(.12) contrast(1.05);
 }
 
 /* -------- Contact form -------- */

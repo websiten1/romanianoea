@@ -1,0 +1,77 @@
+.navigation {
+  background-color: transparent;
+}
+
+.navigation-portrait .nav-menus-wrapper {
+    background-color: #ffffff;
+}
+
+.nav-search-button {
+}
+
+.nav-search-icon {
+  color: #000000;
+}
+
+.nav-search-button:hover .nav-search-icon {
+  color: #aaaaaa;
+}
+
+.nav-menu > li > a {
+    color: #ffffff;
+}
+
+.navigation-portrait > li > a {
+    color: #000000;
+}
+
+.nav-menu > li:hover > a,
+.nav-menu > li.active > a,
+.nav-menu > li.focus > a{
+  color: #000000;
+	background-color: #ffffff;
+}
+
+.navigation-portrait .nav-menus-wrapper-close-button { color: #ffffff; }
+
+.nav-menu > li > a .submenu-indicator-chevron { border-color: #ffffff; }
+
+.nav-menu > li:hover > a .submenu-indicator-chevron,
+.nav-menu > li.active > a .submenu-indicator-chevron,
+.nav-menu > li.focus > a .submenu-indicator-chevron{
+    border-color: #000000 #000000 #000000 #000000;
+}
+.nav-dropdown > li:hover > a,
+.nav-dropdown > li.focus > a{
+  color: #ffffff;
+	background-color: #aaaaaa;
+}
+.nav-dropdown > li:hover > a .submenu-indicator-chevron,
+.nav-dropdown > li.focus > a .submenu-indicator-chevron{
+    border-color: transparent #ffffff #ffffff transparent;
+}
+
+
+
+.nav-brand:hover, .nav-brand:focus {
+  color: #aaaaaa;
+}
+
+a.nav-brand:link  { color : #ffffff; }
+a.nav-brand:visited  { color : #ffffff; }
+a.nav-brand  { text-decoration: underline; }
+
+
+
+
+.nav-logo > img {
+
+		padding: 0px;
+}
+
+
+
+
+.nav-menus-wrapper-close-button {
+    color: #ffffff;
+}

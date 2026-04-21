@@ -1,0 +1,2390 @@
+<!DOCTYPE html>
+
+
+
+
+<head>
+
+<link rel="canonical" href="https://www.roea.org/recommendedlinks" />
+	
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="generator" content="Orthodox Web Solutions - Site Manager v6.0">
+<meta name="description" content="ROEA of the  located in Grass Lake, MI">
+<meta name="keywords" content="ROEA, , Grass Lake, MI">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<meta property="og:url" content="https://www.roea.org/recommendedlinks.html" />
+<meta property="og:title" content="Recommended Links" />
+<meta property="og:image" content="/cache/images/img-45-scaled_1200x890.jpg" />
+<meta property="og:image:url" content="/cache/images/img-45-scaled_1200x890.jpg" />
+<meta property="og:image:secure_url" content="/cache/images/img-45-scaled_1200x890.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ROEA" />
+
+
+<meta property="twitter:domain" content="www.roea.org" />
+<meta property="twitter:url" content="https://www.roea.org/recommendedlinks.html" />
+<meta name="twitter:title" content="Recommended Links" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="/cache/images/img-45-scaled_1200x890.jpg" />
+
+
+<link rel="alternate" title="ROEA" href="/news/" type="application/rss+xml">
+<link rel="alternate" title="ROEA - Upcoming Events" href="/news/index.rss?cid=1" type="application/rss+xml">
+<link rel="alternate" title="ROEA - Recent Events" href="/news/index.rss?cid=2" type="application/rss+xml">
+<link rel="icon" href="data:," />
+
+<title>Recommended Links | ROEA</title>
+
+
+
+
+
+<link rel="manifest" href="/manifest.php" />
+<meta name="theme-color" content="">
+<script async src="https://cdn.jsdelivr.net/npm/pwacompat@2.0.17/pwacompat.min.js"></script>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+window.OneSignalDeferred = window.OneSignalDeferred || [];
+OneSignalDeferred.push(function(OneSignal) {
+  OneSignal.init({
+    appId: "d2e19985-7870-460a-902e-fd024ae98b59",
+	  serviceWorkerPath: "sw-wrapper.js",
+	  serviceWorkerUpdaterPath: "sw-wrapper.js", 
+    serviceWorkerParam: { scope: "/" },
+    subdomainName: "",
+    allowLocalhostAsSecureOrigin: true,
+    logLevel: "none", // Add this to reduce console spam
+    notifyButton: {
+      enable: true,
+      size: 'medium',
+      theme: 'default',
+      position: 'bottom-right',
+      offset: {
+        bottom: '15px',
+        left: '15px',
+        right: '15px'
+      },
+      prenotify: true,
+      showCredit: false,
+      text: {
+        'tip.state.unsubscribed': 'Subscribe to notifications',
+        'tip.state.subscribed': "You're subscribed to notifications",
+        'tip.state.blocked': "You've blocked notifications",
+        'message.prenotify': 'Click to subscribe to notifications',
+        'message.action.subscribed': "Thanks for subscribing!",
+        'message.action.resubscribed': "You're subscribed to notifications",
+        'message.action.unsubscribed': "You won't receive notifications again",
+        'dialog.main.title': 'Manage Site Notifications',
+        'dialog.main.button.subscribe': 'SUBSCRIBE',
+        'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+        'dialog.blocked.title': 'Unblock Notifications',
+        'dialog.blocked.message': "Follow these instructions to allow notifications:"
+      }
+    }
+  });
+});
+</script>
+
+
+
+
+
+<link defer rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script defer src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function () {
+
+	var bootstrap_enabled = (typeof $().modal == 'function');
+
+	//console.log(bootstrap_enabled);
+
+  if (!bootstrap_enabled) {
+  	//console.log('load bootstrap locally');
+  	document.write("<script defer src='/scripts/bootstrap/4.1.3/js/bootstrap.min.js'><\/script>");
+  	document.write("<link defer rel='stylesheet' href='/scripts/bootstrap/4.1.3/css/bootstrap.min.css' type='text/css' media='screen'>");
+  }
+
+
+});
+
+
+</script>
+
+
+<style type="text/css"><!--.COVER_TITLE, .COVER_TITLE_LIGHT, .COVER_TITLE_DARK{ font-family:'Ustav', Arial, sans-serif !important; font-size:35px !important; } .PAGE_TITLE, .PAGE_TITLE_LIGHT, .PAGE_TITLE_DARK { font-family:Tahoma, Geneva, Verdana, Arial, sans-serif !important; font-size:30px !important; } .SECTION_TITLE, .SECTION_TITLE_LIGHT, .SECTION_TITLE_DARK { font-family:Tahoma, Geneva, Verdana, Arial, sans-serif !important; font-size:22px !important; } @font-face { font-family:'Ustav';src:url('/public/fonts/web/dsusth2-webfont.eot');src:url('/public/fonts/web/dsusth2-webfont.eot?#iefix') format('embedded-opentype'), url('/public/fonts/web/dsusth2-webfont.woff') format('woff'), url('/public/fonts/web/dsusth2-webfont.ttf') format('truetype'), url('/public/fonts/web/dsusth2-webfont.svg#ikonwritenormal') format('svg'); font-weight:normal; font-style:normal;}body { overflow-x:hidden; font-size:large; min-height:calc(100vh + 1px); }.wide-div { margin:0 -100%;margin:0 calc(50% - 50vw); }.T19_row-eq-height{ display:-webkit-box; display:-webkit-flex; display:-ms-flexbox; display:flex; }#T19_header_c_bg { }#T19_header_c_div { width:80%; margin:0 auto; max-width:1366px; }#T19_header_c { padding-right:20%; }.bgimg-1, .bgimg-2, .bgimg-3 { position:relative;}.bgimg-1 { height:50%; }.headerbarimg-1, .headerbarimg-2, .headerbarimg-3 {}.headerbarimg-1 { height:150px;}.video-background { position:relative; background-position:center; background-repeat:no-repeat; background-size:cover; width:100%; height:100%; overflow:hidden; }.video-foreground, .video-background iframe { position:absolute; top:0; left:0; width:115%; height:115%; pointer-events:none; }@media (min-aspect-ratio:16/9) {.video-foreground { height:300%; top:-100%; }}@media (max-aspect-ratio:16/9) {.video-foreground { width:500%; left:-200%; }}#T19_content_bgimage { background-image:url('/public/graphics/paper-04.jpg');width:100%;}#T19_content_bgcolor { background-color:rgba(0,0,0,0); width:100%; }#T19_content_image {}#T19_content_color { background-color:rgba(0,0,0,0); }#T19_content_c_bg { height:auto; margin:0 auto;background-color:rgba(255,255,255,0.9);vertical-align:top; overflow:auto; margin-bottom:20px; margin-top:0px; padding:0px 0px 60px 0px; }#T19_content_c_div { }#T19_content_c_div_nocols { width:100%; }#T19_content_c { margin-top:18px; padding:0px 15px 10px 15px;clear:both;}#T19_icon_bg { }#T19_icon_div { display:table; vertical-align:bottom; }#T19_icon_c { max-width:100%; }#T19_icon { max-width:100%; max-height:280px; padding:10px 10px 10px 10px; margin:0 auto; background-color:; color:; ; }#T19_icon_c_m { display:none; max-width:100%; }#T19_icon_m { max-width:100%; max-height:220px; padding:10px 10px 10px 10px; margin:20px auto; background-color:; color:; ; }#T19_section_title_icon { vertical-align:bottom; margin-right:10px; max-height:45px; }#T19_title_block { text-align:center; display:flex; flex-wrap:wrap; align-items:center; justify-content:center; width:100%; position:absolute; margin:auto; top:0; right:0; bottom:0; left:0; }#T19_title { font-family:'Ustav', Arial, sans-serif; width:80%; padding:0px 7px; margin:0 auto; }#T19_title1 { font-size:35px; }#T19_title2 { font-size:23px;}#T19_title3 { font-size:18px; }#T19_title1, #T19_title2, #T19_title3, span.border { background-color:; padding:0px 20px; display:inline-block; margin-top:0px; }#T19_title_section { width:100%; padding:0px 7px; margin:0 auto; }#T19_menu_container {}#T19_menu_bgimage { background-image:url('/public/graphics/parchment-02.jpg'); margin:0 auto; width:100%;}#T19_menu_bgcolor { background-color:rgba(129,0,0,0.77); width:100%; }#T19_menu_image { url('/public/icons/misc/space.gif'); }#T19_menu_color { background-color:rgba(0,0,0,0); }#T19_menu_header{ height:70px; }#T19_menu_title { margin-top:-2px; line-height:1.1; }.menuborder { border-bottom:solid 1px #ffffff; }.easymenu {}.sticky { position:fixed; top:0; z-index:1000;} .nav-brand { font-size:16px !important; }.navigation-portrait .nav-brand { font-size:18px !important; }.nav-menu { font-family:Tahoma, Geneva, Verdana; min-height:70px; display:flex; align-items:center; }.nav-header { font-family:Tahoma, Geneva, Verdana; min-height:70px; }.nav-menu > li > a { font-size:14px !important; }.nav-dropdown > li > a { font-size:14px !important; font-family:Tahoma, Geneva, Verdana !important; min-width:220px; }.nav-search { height:70px !important; display:flex; align-items:center; }.nav-menus-wrapper { display:d-flex; align-items:center; } .nav-menus-wrapper { background:linear-gradient( rgba(129,0,0,0.77), rgba(129,0,0,0.77) ), url('/public/icons/misc/space.gif'); } #T19_menu_logo_mobile { display:none; }#T19_menu_title_mobile { display:none; line-height:1.1; }#navigation {}.megamenu-panel { padding:px !important; max-height:calc(100vh - 200px); overflow:auto; }.scroll-mm::-webkit-scrollbar { width:5px; } .scroll-mm::-webkit-scrollbar-thumb { background:#666; border-radius:10px; }.scroll-mm::-webkit-scrollbar-track { background:#ddd; border-radius:10px; }.nav-search-inner input[type=text], .nav-search-inner input[type=search] { height:70px !important; }.nav-logo > img { height:auto !important; max-height:48px !important;}@media screen and (max-width:1200px){.megamenu-panel { max-height:100%; }#T19_menu_logo_mobile { display:inline; }#T19_menu_logo { display:none; }#T19_menu_title_mobile { display:inline; }#T19_menu_title { display:none; }#T19_menu_header{ height:48px; }#navigation { padding:1px 0px }.navigation-portrait .nav-search { padding-top:0px !important; } .nav-search-inner input[type=text], .nav-search-inner input[type=search] { height:48px !important; }.nav-logo > img { height:44px !important; margin:2px auto !important; }.nav-menu { display:block; align-items:flex-start; min-height:0px; }.nav-header { min-height:48px; display:block; }.nav-menus-wrapper { display:block; align-items:flex-start; min-height:0px; }.nav-search { height:48px !important;}}#T19_side_bgimage { background-image:url('/public/graphics/paper-04.jpg'); width:100%; }#T19_side_bgcolor { background-color:rgba(0,0,0,0); width:100%; }#T19_side_c { width:100%; height:100%; padding:20px 0px; }#T19_panel_side1_c, #T19_panel_side2_c { vertical-align:top; padding:10px 5px;}#T19_panel_side1_image, #T19_panel_side2_image { height:100%; background-image:url('/public/graphics/parchment-06.jpg'); }#T19_panel_side1_c { width:; }#T19_panel_side2_c { width:; }#T19_panel_side1, #T19_panel_side2{ height:100%; background-color:rgba(31,81,31,0.63); }#T19_middle_bgimage { background-image:url('/public/graphics/paper-04.jpg'); width:100%; }#T19_middle_bgcolor { background-color:rgba(0,0,0,0); width:100%; }#T19_middle_c { width:100%; height:100%; padding:20px 0px; }#T19_panel_middle1_c, #T19_panel_middle2_c, #T19_panel_middle3_c, #T19_panel_middle4_c { vertical-align:top; padding:10px 5px;}#T19_panel_middle1_image, #T19_panel_middle2_image, #T19_panel_middle3_image, #T19_panel_middle4_image { height:100%; background-image:url('/public/graphics/parchment-06.jpg'); }#T19_panel_middle1_c { width:; }#T19_panel_middle2_c { width:; }#T19_panel_middle3_c { width:; }#T19_panel_middle4_c { width:; }#T19_panel_middle1, #T19_panel_middle2, #T19_panel_middle3, #T19_panel_middle4{ height:100%; background-color:rgba(3,69,125,0.73); }#T19_lower_bgimage { background-image:url('/public/graphics/paper-04.jpg'); width:100%; }#T19_lower_bgcolor { background-color:rgba(0,0,0,0); width:100%; }#T19_lower_c { width:100%; height:100%; padding:20px 0px; }#T19_panel_lower1_c, #T19_panel_lower2_c, #T19_panel_lower3_c, #T19_panel_lower4_c { vertical-align:top; padding:10px 5px;}#T19_panel_lower1_image, #T19_panel_lower2_image, #T19_panel_lower3_image, #T19_panel_lower4_image { height:100%; background-image:url('/public/graphics/parchment-06.jpg'); }#T19_panel_lower1_c { width:; }#T19_panel_lower2_c { width:; }#T19_panel_lower3_c { width:; }#T19_panel_lower4_c { width:; }#T19_panel_lower1, #T19_panel_lower2, #T19_panel_lower3, #T19_panel_lower4{ height:100%; background-color:rgba(187,120,23,0.71); }#T19_bottom_bgimage { background-image:url('/public/graphics/parchment-02.jpg'); width:100%; }#T19_bottom_bgcolor { background-color:rgba(129,0,0,0.77); width:100%; }#T19_bottom_c { width:100%; height:100%; padding:20px 0px; }#T19_panel_bottom1_c, #T19_panel_bottom2_c { vertical-align:top; padding:10px 5px; }#T19_panel_bottom1_image, #T19_panel_bottom2_image { height:100%;}#T19_panel_bottom1_c { width:; }#T19_panel_bottom2_c { width:;text-align:right; }#T19_panel_bottom1, #T19_panel_bottom2{ height:100%; background-color:rgba(0,0,0,0); }#T19_footer_links_c_bg {height:auto; margin:0 auto;background-color:#446a9a; vertical-align:top; overflow:auto; margin-bottom:0px; margin-top:0px; padding:0px 0px 0px 0px; }#T19_footer_links_c_div { margin-top:0px; padding:0px 0px 10px 0px;clear:both;}#T19_footer_links_c { width:100%; clear:both; overflow:auto; } #T19_footer_pbows { float:left; padding:10px 0px 10px 0px; }#T19_footer_links { float:right; padding:10px 0px 10px 0px; }@media screen and (max-width:1800px){#T19_body_c_bg { background:none; }}@media screen and (max-width:1125px){#T19_icon_c {max-height:240px; } #T19_icon {max-height:220px;} #T19_title { width:90%; }#T19_title1 { font-size:31px !important; }#T19_title2 { font-size:21px !important; }#T19_title3 { font-size:16px !important; } #T19_page_title { font-size:42px !important; } #T19_panel_side1_c, #T19_panel_side2_c, #T19_panel_middle1_c, #T19_panel_middle2_c, #T19_panel_middle3_c, #T19_panel_middle4_c, #T19_panel_lower1_c, #T19_panel_lower2_c, #T19_panel_lower3_c, #T19_panel_lower4_c, #T19_panel_bottom1_c, #T19_panel_bottom2_c { display:block; width:100%; float:none; clear:both; overflow:auto; }#T19_panel_side1_c, #T19_panel_side2_c { padding:10px; margin-bottom:0px; }#T19_panel_middle1_c, #T19_panel_middle2_c, #T19_panel_middle3_c, #T19_panel_middle4_c { padding:10px; margin-bottom:0px; }#T19_panel_lower1_c, #T19_panel_lower2_c, #T19_panel_lower3_c, #T19_panel_lower4_c { padding:10px; margin-bottom:0px; }#T19_panel_bottom1_c, #T19_panel_bottom2_c { padding:10px; margin-bottom:0px;; }#T19_bottom_c_div, #T19_bottom_c { text-align:left;}#T19_panel_bottom1_c, #T19_panel_bottom2_c{ text-align:left; }#T19_content_c_div { margin-left:0; }.T19_row-eq-height { display:block; }}@media screen and (max-width:990px){#T19_title1 { font-size:27px !important; }#T19_title2 { font-size:18px !important; }#T19_title3 { font-size:14px !important; } #T19_page_title { font-size:35px !important; }} @media screen and (max-width:900px){#T19_body_c { background-size:112%; background-position:right top; }}@media screen and (max-width:700px){ #T19_icon_c { display:none; } #T19_icon_c_m { display:block; } #T19_footer_links_c { text-align:center; }#T19_footer_pbows { float:none; }#T19_footer_links { float:none; }.bgimg-1 { background-size:auto 150% !important; } } @media screen and (max-width:650px){#T19_body_c { background-size:125%; background-position:right top; }#T19_section_title_icon { display:none; } #T19_title3 { display:none; }#T19_footer_links_container { text-align:center; }#T19_footer_pbows { float:none; }#T19_footer_links { float:none; }.headerbarimg-1 { height:150px;}}@media screen and (max-width:500px){#T19_body_c { background-size:137%; background-position:85% 0%; }#T19_header_c { padding-right:10%; }#T19_title1 { font-size:22px !important; }#T19_page_title { font-size:29px !important; }}@media screen and (max-width:400px){#T19_body_c { background-size:180%; background-position:80% 0%; }#T19_title1 { font-size:18px !important; }#T19_title2 { display:none; }.nav-search-button { display:none !important; }#T19_page_title { font-size:22px !important; }}@media screen and (min-width:1px){.megamenu { font-size:18px; }.megamenu > li { font-family:helvetica, arial, verdana, sans-serif; font-size:large; color :#000000; }.megamenu > li > a { font-family:'', serif !important; font-size:18px; }#T19_panel_side1_c { display:none; }#T19_panel_side2_c { display:none; }#T19_panel_middle1_c { display:none; }#T19_panel_middle2_c { display:none; }#T19_panel_middle3_c { display:none; }#T19_panel_middle4_c { display:none; }#T19_panel_lower1_c { display:none; }#T19_panel_lower2_c { display:none; }#T19_panel_lower3_c { display:none; }#T19_panel_lower4_c { display:none; }#T19_panel_bottom1_c { display:none; }#T19_panel_bottom2_c { display:none; }#T19_panel_middle1, #T19_panel_middle2, #T19_panel_middle3, #T19_panel_middle4 {min-height:0px !important; }}--></style> <style type="text/css"><!--#fullHeightDiv{ position:absolute; top:0px; bottom:0; width:100%; } .PARAGRAPH_TITLE, .PARAGRAPH_TITLE_LIGHT, .PARAGRAPH_TITLE_DARK { font-family:helvetica, arial, verdana, sans-serif; font-size:large; font-stretch:normal; font-style:normal; font-variant:normal; font-weight:bolder; line-height :150%;text-shadow:none; text-align:; text-transform:normal; letter-spacing:0px; word-spacing:0px;}.PARAGRAPH_TEXT, .PARAGRAPH_TEXT_LIGHT, .PARAGRAPH_TEXT_DARK{ font-family:helvetica, arial, verdana, sans-serif; font-size:large; font-stretch:normal; font-style:normal; font-variant:normal; font-weight:normal; line-height :150%;text-shadow:none; text-align:left; text-transform:normal; letter-spacing:0px; word-spacing:0px;}.CAPTION_TEXT, .CAPTION_TEXT_LIGHT, .CAPTION_TEXT_DARK{ font-family:helvetica, arial, verdana, sans-serif; font-size:large; font-stretch:normal; font-style:normal; font-variant:normal; font-weight:normal; line-height :150%; text-shadow:none; text-align:; text-transform:normal; letter-spacing:0px; word-spacing:0px;}.FOOTER_TEXT{ font-family:helvetica, arial, verdana, sans-serif; font-size:large; font-stretch:normal; font-style:normal; font-variant:normal; font-weight:normal; line-height :150%; text-shadow:none; }.COVER_TITLE { color:#333333; }.COVER_TITLE_LIGHT { color:#ffffff; }.COVER_TITLE_DARK{ color:#333333; }.PAGE_TITLE{ color:#333333; }.PAGE_TITLE_LIGHT{ color:#ffffff; }.PAGE_TITLE_DARK { color:#333333; }.SECTION_TITLE_LIGHT { color:#ffffff; }.SECTION_TITLE_DARK{ color:#333333; }.PARAGRAPH_TITLE,.PARAGRAPH_TITLE > h1,.PARAGRAPH_TITLE > h2,.PARAGRAPH_TITLE > h3,.PARAGRAPH_TITLE > h4,.PARAGRAPH_TITLE > h5,.PARAGRAPH_TITLE > h6 { color:#666666; }.PARAGRAPH_TITLE_LIGHT,.PARAGRAPH_TITLE_LIGHT > h1,.PARAGRAPH_TITLE_LIGHT > h2,.PARAGRAPH_TITLE_LIGHT > h3,.PARAGRAPH_TITLE_LIGHT > h4,.PARAGRAPH_TITLE_LIGHT > h5,.PARAGRAPH_TITLE_LIGHT > h6 { color:#ffffff; }.PARAGRAPH_TITLE_DARK,.PARAGRAPH_TITLE_DARK > h1,.PARAGRAPH_TITLE_DARK > h2,.PARAGRAPH_TITLE_DARK > h3,.PARAGRAPH_TITLE_DARK > h4,.PARAGRAPH_TITLE_DARK > h5,.PARAGRAPH_TITLE_DARK > h6{ color:#333333; }.PARAGRAPH_TEXT,.PARAGRAPH_TEXT > h1,.PARAGRAPH_TEXT > h2,.PARAGRAPH_TEXT > h3,.PARAGRAPH_TEXT > h4,.PARAGRAPH_TEXT > h5,.PARAGRAPH_TEXT > h6 { color:#000000; }.PARAGRAPH_TEXT_LIGHT,.PARAGRAPH_TEXT_LIGHT > h1,.PARAGRAPH_TEXT_LIGHT > h2,.PARAGRAPH_TEXT_LIGHT > h3,.PARAGRAPH_TEXT_LIGHT > h4,.PARAGRAPH_TEXT_LIGHT > h5,.PARAGRAPH_TEXT_LIGHT > h6{ color:#ffffff; }.PARAGRAPH_TEXT_DARK,.PARAGRAPH_TEXT_DARK > h1,.PARAGRAPH_TEXT_DARK > h2,.PARAGRAPH_TEXT_DARK > h3,.PARAGRAPH_TEXT_DARK > h4,.PARAGRAPH_TEXT_DARK > h5,.PARAGRAPH_TEXT_DARK > h6 { color:#333333; }.CAPTION_TEXT{ color:#000000; }.CAPTION_TEXT_LIGHT{ color:#ffffff; }.CAPTION_TEXT_DARK { color:#333333; }A:link{ text-decoration:underline;color :#aa2200; }A:hover { text-decoration:underline;color :#aa2200; }A:active{ text-decoration:underline;color :#ffff44; }A:visited { text-decoration:underline;color :#aa2200; }.SECTION_TITLE_LIGHT A:link{ color:#ffffff; }.SECTION_TITLE_LIGHT A:visited { color:#ffffff; }.SECTION_TITLE_LIGHT A:active{ color:#ffffff; }.SECTION_TITLE_LIGHT A:hover { color:#ffffff; }.SECTION_TITLE_DARK A:link{ color:#333333; }.SECTION_TITLE_DARK A:visited { color:#333333; }.SECTION_TITLE_DARK A:active{ color:#333333; }.SECTION_TITLE_DARK A:hover { color:#333333; }.PARAGRAPH_TEXT_LIGHT A:link{ color:#dddddd;}.PARAGRAPH_TEXT_LIGHT A:visited { color:#dddddd; }.PARAGRAPH_TEXT_LIGHT A:active{ color:#eeeeee; }.PARAGRAPH_TEXT_LIGHT A:hover { color:#cccccc; }.PARAGRAPH_TEXT_LIGHT A { text-decoration:none; }.PARAGRAPH_TEXT_DARK A:link{ color:#000000;}.PARAGRAPH_TEXT_DARK A:visited { color:#000000; }.PARAGRAPH_TEXT_DARK A:active{ color:#bbbbbb; }.PARAGRAPH_TEXT_DARK A:hover { color:#aaaaaa; }.PARAGRAPH_TEXT_DARK A { text-decoration:none;}A.PARAGRAPH_TEXT_LIGHT_LINK:link{ text-decoration:none;color :#dddddd; }A.PARAGRAPH_TEXT_LIGHT_LINK:hover { text-decoration:none;color :#cccccc; }A.PARAGRAPH_TEXT_LIGHT_LINK:active{ text-decoration:none;color :#eeeeee; }A.PARAGRAPH_TEXT_LIGHT_LINK:visited { text-decoration:none;color :#dddddd; }A.PARAGRAPH_TEXT_DARK_LINK:link { text-decoration:none;color :#000000; }A.PARAGRAPH_TEXT_DARK_LINK:hover{ text-decoration:none;color :#aaaaaa; }A.PARAGRAPH_TEXT_DARK_LINK:active { text-decoration:none;color :#bbbbbb; }A.PARAGRAPH_TEXT_DARK_LINK:visited{ text-decoration:none;color :#000000; }.CAPTION_TEXT_LIGHT A:link{ color:#dddddd;}.CAPTION_TEXT_LIGHT A:visited { color:#dddddd; }.CAPTION_TEXT_LIGHT A:active{ color:#eeeeee; }.CAPTION_TEXT_LIGHT A:hover { color:#cccccc; }.CAPTION_TEXT_LIGHT A { text-decoration:none; }.CAPTION_TEXT_DARK A:link{ color:#000000;}.CAPTION_TEXT_DARK A:visited { color:#000000; }.CAPTION_TEXT_DARK A:active{ color:#bbbbbb; }.CAPTION_TEXT_DARK A:hover { color:#aaaaaa; }.CAPTION_TEXT_DARK A { text-decoration:none;}A.CAPTION_TEXT_LIGHT_LINK:link{ text-decoration:none;color :#dddddd; }A.CAPTION_TEXT_LIGHT_LINK:hover { text-decoration:none;color :#cccccc; }A.CAPTION_TEXT_LIGHT_LINK:active{ text-decoration:none;color :#eeeeee; }A.CAPTION_TEXT_LIGHT_LINK:visited { text-decoration:none;color :#dddddd; }A.CAPTION_TEXT_DARK_LINK:link { text-decoration:none;color :#000000; }A.CAPTION_TEXT_DARK_LINK:hover{ text-decoration:none;color :#aaaaaa; }A.CAPTION_TEXT_DARK_LINK:active { text-decoration:none;color :#bbbbbb; }A.CAPTION_TEXT_DARK_LINK:visited{ text-decoration:none;color :#000000; }A.FOOTER_TEXT_LINK:link { text-decoration:none; color :#ffffff; }A.FOOTER_TEXT_LINK:hover{ text-decoration:none; color :#ffffff; }A.FOOTER_TEXT_LINK:active { text-decoration:none; color :#ffffff; }A.FOOTER_TEXT_LINK:visited{ text-decoration:none; color :#ffffff; }.IMAGE{ border-color :; }.IMAGE_LIGHT{ border-color :#ffffff; }@media (min-width:1400px) {.col-xxl-1 { flex:0 0 8.333%;max-width:8.333%; }.col-xxl-2 { flex:0 0 16.666%; max-width:16.666%; }.col-xxl-3 { flex:0 0 25%; max-width:25%; }.col-xxl-4 { flex:0 0 33.333%; max-width:33.333%; }.col-xxl-6 { flex:0 0 50%; max-width:50%; }.col-xxl-12 { flex:0 0 100%; max-width:100%; }}@media (min-width:1600px) {.col-xxxl-1 { flex:0 0 8.333%;max-width:8.333%; }.col-xxxl-2 { flex:0 0 16.666%; max-width:16.666%; }.col-xxxl-3 { flex:0 0 25%; max-width:25%; }.col-xxxl-4 { flex:0 0 33.333%; max-width:33.333%; }.col-xxxl-6 { flex:0 0 50%; max-width:50%; }.col-xxxl-12 { flex:0 0 100%; max-width:100%; }}@media (min-width:2400px) {.col-xxxxl-1 { flex:0 0 8.333%;max-width:8.333%; }.col-xxxxl-2 { flex:0 0 16.666%; max-width:16.666%; }.col-xxxxl-3 { flex:0 0 25%; max-width:25%; }.col-xxxxl-4 { flex:0 0 33.333%; max-width:33.333%; }.col-xxxxl-6 { flex:0 0 50%; max-width:50%; }.col-xxxxl-12 { flex:0 0 100%; max-width:100%; }}.screen-only { display:inline-flex; }@media print { .screen-only { display:none !important; } }.btn a:link { color:#ffffff; text-decoration:none; }.btn a:visited { color:#ffffff; text-decoration:none; }.btn a:active { color:#ffffff; text-decoration:none; }.btn a:hover { color:#ffffff; text-decoration:none; }.nowrap { white-space:nowrap !important; } h1,h2,h3,h4,h5,h6 {font-family:helvetica, arial, verdana, sans-serif;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:bolder;color :#666666;}h1 { font-size:2em;}h2 { font-size:1.5em;}h3 { font-size:1.17em; }h4 { font-size:1.0em;}h5 { font-size:.83em;}h6 { font-size:.75em;}.pointer { cursor:pointer; }.nounderline { text-decoration:none !important }.list-group-item { background-color:transparent; }.list-group-item-action:focus, .list-group-item-action:hover { background-color:#666666; color:#ffffff; }.list-group-item-action:focus, .list-group-item-action:hover a:link { color:#ffffff; }.list-group-item-action:focus, .list-group-item-action:hover a:visited { color:#ffffff; }.list-group-item-action:focus, .list-group-item-action:hover a:active { color:#ffffff; }.list-group-item-action:focus, .list-group-item-action:hover a:hover { color:#ffffff; }.SM_card-title {background-color:#555555;color:#ffffff;top:-30px;margin-left:-10px;position:relative;display:inline;padding:0px 10px 2px 10px;border-radius:3px;}.sm-light { color:#ffffff; }.sm-light_shadow { color:#ffffff; -webkit-filter:drop-shadow(0px 0px 2px #111); filter:drop-shadow(0px 0px 3px #111); }.sm-dark { color:#000000;}.sm-dark_glow { color:#000000;-webkit-filter:drop-shadow(0px 0px 2px #eee); filter:drop-shadow(0px 0px 3px #eee); }.sm-img-border-light { border:2px solid #cccccc; }.sm-img-border-dark { border:2px solid #000000; }a.sm-light { text-decoration:none; color :#ffffff; }a.sm-light:hover { text-decoration:none; color :#ffffff; }a.sm-light:link { text-decoration:none; color :#ffffff; }a.sm-light:visited { text-decoration:none; color :#ffffff; }a.sm-dark { text-decoration:none; color :#000000; }a.sm-dark:hover { text-decoration:none; color :#000000; }a.sm-dark:link { text-decoration:none; color :#000000; }a.sm-dark:visited { text-decoration:none; color :#000000; }a.sm-light_shadow { text-decoration:none; color :#ffffff; }a.sm-light_shadow:hover { text-decoration:none; color :#ffffff; }a.sm-light_shadow:link { text-decoration:none; color :#ffffff; }a.sm-light_shadow:visited { text-decoration:none; color :#ffffff; }a.sm-dark_glow { text-decoration:none; color :#000000; }a.sm-dark_glow:hover { text-decoration:none; color :#000000; }a.sm-dark_glow:link { text-decoration:none; color :#000000; }a.sm-dark_glow:visited { text-decoration:none; color :#000000; }img { border-color:#000000; }.sm-img-circle { border-radius:50%;}.sm-img-circle-element-container {display:table-cell !important; vertical-align:middle; text-align:center; overflow:hidden; }.sm-img-rect {}.sm-img-rect-element-container {display:table-cell !important; vertical-align:middle; text-align:center; overflow:hidden; }.sm_hp { opacity:0; position:absolute; top:0; left:0; height:0; width:0; z-index:-1; }.tint { }.tint:before {content:"";display:block;position:absolute;top:0;bottom:0;left:0;right:0;background:rgba(0,0,0, 0.5);-moz-transition:all .3s linear;-webkit-transition:all .3s linear;-ms-transition:all .3s linear;-o-transition:all .3s linear;transition:all .3s linear;}.tint:hover:before {background:rgba(0,0,0, 0.3);-moz-transition:all .3s linear;-webkit-transition:all .3s linear;-ms-transition:all .3s linear;-o-transition:all .3s linear;transition:all .3s linear;}.no-text-decoration { text-decoration:none; }.no-text-decoration:hover { text-decoration:none; }.no-border { border-style:none; }.figure-caption {color:inherit;}#sm-brand-title { display:inline-block; font-family:'Bebas Neue', cursive; font-size:24px; text-decoration:none; padding:8px 0px 0px 3px; line-height:1.2; }#sm-brand-title-icon { display:inline-block; font-size:15px; line-height:1; }#sm-float-icon-div { position:fixed; top:10px; left:10px; z-index:999999999; padding:0px 10px; background-color:rgba(29,43,54,0.75);border-radius:6px; transition:border-radius 0s linear 0s, opacity 0ms; }#sm-float-icon-div:hover { border-radius:6px 0px 0px 6px; transition:border-radius 0s linear 0s, opacity 0ms; background-color:rgba(29,43,54,0); }#sm-float-icon-img { opacity:0.85; filter:alpha(opacity=85); height:70px; }#sm-float-icon-img:hover { opacity:0; filter:alpha(opacity=0); display:none; }#sm-float-icon-div .sm-tooltiptext .list-group .list-group-item:hover { background-color:rgba(0,0,0,0.5); s}.sm-float-icon-div-ico-col-container { padding:0px 15px 0px 2px !important; }.sm-float-icon-div-ico-col { background-color:rgba(0,0,0,0.3); border-radius:0px 7px 7px 0px; margin:0px -8px 0px -10px; padding:5px;}.sm-float-icon-div-ico { border:0px; font-size:16px; padding:8px 2px; margin:0px; line-height:0px; }.sm-float-icon-div-ico-label { font-size:12px; padding:15px 0px; }#sm-float-icon-img-small { height:100px; padding:5px 0px 0px 0px; }.sm-tooltip { position:relative; display:inline-block; text-decoration:none; }.sm-tooltip .sm-tooltiptext {visibility:hidden;opacity:0;transition:visibility 0s linear 0ms, opacity 0ms;width:320px;min-height:60px;background-color:rgba(29,43,54,0.90);border-radius:6px 6px 6px 6px;color:#fff;padding:10px 2px;font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;font-size:13px; position:absolute;z-index:10000;top:0px; left:15px; }.sm-tooltip:hover .sm-tooltiptext { visibility:visible; opacity:1; transition:visibility 0s linear 0s, opacity 0ms; }.sm-tooltiptext .list-group .list-group-item { text-decoration:none; padding:6px 10px 6px 5px; }img.rounded-circle {object-fit:cover;}#toast-container * { font-size:16px; }.btn {font-family:helvetica, arial, verdana, sans-serif;margin-bottom:2px;}.btn-secondary, .fc button {color:#373a3c;background-color:#fff;border-color:#818a91;}.btn-secondary:hover, .fc button:hover {color:#373a3c;background-color:#e6e6e6;border-color:#636b72;}.btn-secondary:focus, .fc button:focus, .btn-secondary.focus, .fc button.focus {color:#373a3c;background-color:#e6e6e6;border-color:#636b72;}.btn-secondary:active, .fc button:active, .btn-secondary.active, .fc button.active, .fc-toolbar .fc-state-active, .fc-toolbar .ui-state-active,.open > .btn-secondary.dropdown-toggle, .fc.open > button.dropdown-toggle {color:#373a3c;background-color:#e6e6e6;border-color:#636b72;background-image:none;}.btn-secondary:active:hover, .fc button:active:hover, .btn-secondary:active:focus, .fc button:active:focus, .btn-secondary:active.focus, .fc button:active.focus, .btn-secondary.active:hover, .fc button.active:hover, .fc-toolbar .fc-state-active:hover, .fc-toolbar .ui-state-active:hover, .btn-secondary.active:focus, .fc button.active:focus, .fc-toolbar .fc-state-active:focus, .fc-toolbar .ui-state-active:focus, .btn-secondary.active.focus, .fc button.active.focus, .fc-toolbar .focus.fc-state-active, .fc-toolbar .focus.ui-state-active,.open > .btn-secondary.dropdown-toggle:hover, .fc.open > button.dropdown-toggle:hover,.open > .btn-secondary.dropdown-toggle:focus, .fc.open > button.dropdown-toggle:focus,.open > .btn-secondary.dropdown-toggle.focus, .fc.open > button.dropdown-toggle.focus {color:#373a3c;background-color:#d4d4d4;border-color:#444a4e;}.btn-secondary.disabled:focus, .fc button.disabled:focus, .btn-secondary.disabled.focus, .fc button.disabled.focus, .btn-secondary:disabled:focus, .fc button:disabled:focus, .btn-secondary:disabled.focus, .fc button:disabled.focus {background-color:#fff;border-color:#818a91;}.btn-secondary.disabled:hover, .fc button.disabled:hover, .btn-secondary:disabled:hover, .fc button:disabled:hover {background-color:#fff;border-color:#818a91;}.btn-1st {color:#ffffff;background-color:#333333;border-color:#333333;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-1st:focus, .btn-1st.focus {box-shadow:0 0 0 3px rgba(25,25,25,0.5);}.btn-1st.disabled, .btn-1st:disabled {background-color:#333333;border-color:#333333;}.btn-1st:active, .btn-1st.active,.show > .btn-1st.dropdown-toggle {background-color:#424242;background-image:none;border-color:#474747;}.btn-1st:hover {color:#ffffff;background-color:#424242;border-color:#474747;}.btn-2nd {color:#666666;background-color:#ffffff;background-image:none;border-color:#666666;border-size:1px;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-2nd:focus, .btn-2nd.focus {box-shadow:0 0 0 3px rgba(51,51,51,0.5);}.btn-2nd.disabled, .btn-2nd:disabled {background-color:#666666;border-color:#666666;}.btn-2nd:active, .btn-2nd.active,.show > .btn-2nd.dropdown-toggle {background-color:#848484;background-image:none;border-color:#8e8e8e;}.btn-2nd:hover {color:#ffffff;background-color:#848484;border-color:#8e8e8e;}.btn-3rd {color:#ffffff;background-color:#54a754;border-color:#54a754;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-3rd:focus, .btn-3rd.focus {box-shadow:0 0 0 3px rgba(126,250,126,0.5);}.btn-3rd.disabled, .btn-3rd:disabled {background-color:#54a754;border-color:#54a754;}.btn-3rd:active, .btn-3rd.active,.show > .btn-3rd.dropdown-toggle {background-color:#3a743a;background-image:none;border-color:#326432;}.btn-3rd:hover {color:#ffffff;background-color:#3a743a;border-color:#326432;}.btn-3rd-inv {color:#54a754;background-color:#ffffff;background-image:none;border-color:#54a754;border-size:1px;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-3rd-inv:focus, .btn-3rd-inv.focus {box-shadow:0 0 0 3px rgba(126,250,126,0.5);}.btn-3rd-inv.disabled, .btn-3rd-inv:disabled {background-color:#54a754;border-color:#54a754;}.btn-3rd-inv:active, .btn-3rd-inv.active,.show > .btn-3rd-inv.dropdown-toggle {background-color:#3a743a;background-image:none;border-color:#326432;}.btn-3rd-inv:hover {color:#ffffff;background-color:#3a743a;border-color:#326432;}.btn-4th {color:#ffffff;background-color:#0275d8;border-color:#0275d8;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-4th:focus, .btn-4th.focus {box-shadow:0 0 0 3px rgba(1,58,108,0.5);}.btn-4th.disabled, .btn-4th:disabled {background-color:#0275d8;border-color:#0275d8;}.btn-4th:active, .btn-4th.active,.show > .btn-4th.dropdown-toggle {background-color:#0298ff;background-image:none;border-color:#02a3ff;}.btn-4th:hover {color:#ffffff;background-color:#0298ff;border-color:#02a3ff;}.btn-4th-inv {color:#0275d8;background-color:#ffffff;background-image:none;border-color:#0275d8;border-size:1px;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-4th-inv:focus, .btn-4th-inv.focus {box-shadow:0 0 0 3px rgba(1,58,108,0.5);}.btn-4th-inv.disabled, .btn-4th-inv:disabled {background-color:#0275d8;border-color:#0275d8;}.btn-4th-inv:active, .btn-4th-inv.active,.show > .btn-4th-inv.dropdown-toggle {background-color:#0298ff;background-image:none;border-color:#02a3ff;}.btn-4th-inv:hover {color:#ffffff;background-color:#0298ff;border-color:#02a3ff;}.btn-5th {color:#ffffff;background-color:#0275d8;border-color:#0275d8;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-5th:focus, .btn-5th.focus {box-shadow:0 0 0 3px rgba(1,58,108,0.5);}.btn-5th.disabled, .btn-5th:disabled {background-color:#0275d8;border-color:#0275d8;}.btn-5th:active, .btn-5th.active,.show > .btn-5th.dropdown-toggle {background-color:#0298ff;background-image:none;border-color:#02a3ff;}.btn-5th:hover {color:#ffffff;background-color:#0298ff;border-color:#02a3ff;}.btn-6th {color:#ffffff;background-color:#0275d8;border-color:#0275d8;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-6th:focus, .btn-6th.focus {box-shadow:0 0 0 3px rgba(1,58,108,0.5);}.btn-6th.disabled, .btn-6th:disabled {background-color:#0275d8;border-color:#0275d8;}.btn-6th:active, .btn-6th.active,.show > .btn-6th.dropdown-toggle {background-color:#0298ff;background-image:none;border-color:#02a3ff;}.btn-6th:hover {color:#ffffff;background-color:#0298ff;border-color:#02a3ff;}.btn-7th {color:#dddddd;background-color:#000000;border-color:#000000;border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-7th:focus, .btn-7th.focus {box-shadow:0 0 0 3px rgba(0,0,0,0.5);}.btn-7th.disabled, .btn-7th:disabled {background-color:#000000;border-color:#000000;}.btn-7th:active, .btn-7th.active,.show > .btn-7th.dropdown-toggle {background-color:#333333;background-image:none;border-color:#000000;}.btn-8th {color:#333333;background-color:#ffffff;background-image:none;border-color:rgba(127,127,127,0.5);border-radius:.25rem!important;padding:0.25rem 0.5rem;font-size:1.0rem;line-height:1.5;}.btn-8th:focus, .btn-8th.focus {box-shadow:0 0 0 3px rgba(255,255,255,0.5);}.btn-8th.disabled, .btn-8th:disabled {background-color:#ffffff;border-color:#ffffff;}.btn-8th:active, .btn-8th.active,.show > .btn-8th.dropdown-toggle {background-color:#000000;background-image:none;border-color:#999999;}.socicon:hover {opacity:0.5; filter:alpha(opacity=50); }.progress-step:hover .progress-marker {background-color:#54a754 !important;color:#ffffff !important;}.progress-step.is-active .progress-marker {background-color:#54a754 !important;color:#ffffff !important;}.progress-step.is-complete .progress-marker {background-color:#54a754 !important;color:#ffffff !important;}.calendar-box { margin:.25em 10px 10px 0; padding-top:5px; float:left; width:50px; background:#ededef; font:bold 20px/1.0 Arial Black, Arial, Helvetica, sans-serif; text-align:center; color:#000; -moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px; position:relative;}.calendar-box em{ display:block; font:normal bold 11px/20px Arial, Helvetica, sans-serif; text-transform:uppercase; color:#ffffff; background:#333333; -moz-border-radius-bottomright:3px; -webkit-border-bottom-right-radius:3px; border-bottom-right-radius:3px; -moz-border-radius-bottomleft:3px; -webkit-border-bottom-left-radius:3px; border-bottom-left-radius:3px; }.calendar-box .dow { font:bold 10px/10px Arial Black, Arial, Helvetica, sans-serif; }.calendar-box .dom { line-height:1.4; }.calendar-box:before, .calendar-box:after{ content:''; float:left; position:absolute; top:4px; width:6px; height:6px; background:#111; z-index:1; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px; -moz-box-shadow:0 1px 1px #fff; -webkit-box-shadow:0 1px 1px #fff; box-shadow:0 1px 1px #fff; }.calendar-box:before{left:7px;}.calendar-box:after{right:7px;}.calendar-box em:before, .calendar-box em:after{ content:''; float:left; position:absolute; top:-3px; width:2px; height:10px; background:#dadada; background:-webkit-gradient(linear, left top, left bottom, from(#f1f1f1), to(#aaa));background:-moz-linear-gradient(top,#f1f1f1,#aaa);z-index:2; -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; }.calendar-box em:before{left:9px;}.calendar-box em:after{right:9px;}.firstcharacter { float:left; font-size:800%; line-height:70%; padding-top:4px; padding-right:8px; padding-left:3px; }.input-group.date .input-group-addon { cursor:pointer; }.select2-container .select2-selection--single .select2-selection__rendered {line-height:40px !important;}.select2-container .select2-selection--single {height:40px !important;}.select2-selection__arrow {height:39px !important;}.table-not-striped tbody tr:nth-of-type(odd) { background-color:transparent!important; }.background-transparent { background-color:transparent!important; }.text-divider {--text-divider-gap:1rem;display:flex;align-items:center;text-transform:uppercase; letter-spacing:0.1em;}.text-divider::before, .text-divider::after {content:'';height:2px;background-color:silver;flex-grow:1;}.text-divider::before {margin-right:var(--text-divider-gap);}.text-divider::after {margin-left:var(--text-divider-gap);}.fa.fa-twitter{font-family:sans-serif;}.fa.fa-twitter::before{content:"\1D54F";font-size:1.2em;}.fab-background.fa-twitter {background:#000000 !important;color:#fff;}.sm-date {color:#ffffff;background-color:#333333;font-size:90%;font-weight:normal;}.square { border-radius:0; }.round { border-radius:1.5rem; }@media (min-width:1200px) {.container { max-width:1366px !important; }}--></style>
+<link defer rel="stylesheet" href="https://ows-cdn.com/scripts/stuck/css/global-style.css?cb=1773845225" /> 
+<link defer rel="stylesheet" href="https://ows-cdn.com/scripts/stuck/css/asset/inputs.css?cb=1773845225" /> 
+
+<link defer rel="stylesheet" type="text/css" href="/scripts/global_layout.css?cb=1775753925" /> 
+<link defer rel="stylesheet" type="text/css" href="https://ows-cdn.com/scripts/highslide/highslide.css" />
+<link defer rel="stylesheet" type="text/css" href="https://ows-cdn.com/scripts/style-dropshadows.css" /> 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous"></script>
+
+<!-- Font Awesome -->  
+<link defer rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link defer rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/v4-shims.min.css" integrity="sha512-fHavkBby/gcFEB2taaBfG0DLdHRGrnvkWQNXVZ5Yb/Fj6LkogecQUd6oyvBVsrWPaHSxs5tNza6LUW/Y6Az9lQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+ 
+
+<!-- Media Boxes CSS files -->  
+<link defer rel="stylesheet" href="https://ows-cdn.com/scripts/media-boxes/plugin/components/Magnific Popup/magnific-popup.css"> <!-- Only if you are going to use Magnific Popup -->
+<link defer rel="stylesheet" href="https://ows-cdn.com/scripts/media-boxes/plugin/components/Fancybox/jquery.fancybox.min.css"> <!-- Only if you are going to use fancybox -->
+<link defer rel="stylesheet" href="https://ows-cdn.com/scripts/media-boxes/plugin/css/mediaBoxes.css">
+<link defer rel="stylesheet" href="https://ows-cdn.com/scripts/media-boxes/plugin/css/mediaBoxes-sm.css">
+
+<link defer rel="stylesheet" type="text/css" href="/scripts/style-icons.css?cb=1773845225" /> <!-- link icon set from famfamfam -->
+<script src="https://api.orthodoxws.com/googlemaps/jsproxy.php?v=3&libraries=places,geometry&loading=async"></script>
+
+<script defer type="text/javascript" src="https://ows-cdn.com/scripts/waitforimages/jquery.waitforimages.js"></script>
+<script defer type="text/javascript" src="/scripts/form.js?cb=1773845225"></script>
+<script defer type="text/javascript" src="/scripts/templates.js?cb=1773845225"></script>
+<script defer type="text/javascript" src="https://ows-cdn.com/scripts/highslide/highslide-full.packed.js"></script>
+<script defer type="text/javascript" src="https://ows-cdn.com/scripts/highslide/highslide-with-gallery-custom.js"></script>  <!-- b81541155246641cbdfc010936cef23b -->
+
+
+<link defer rel="stylesheet" type="text/css" href="https://ows-cdn.com/admin/scripts/bower_components/sweetalert/dist/sweetalert-custom.css">
+<script defer src="https://ows-cdn.com/admin/scripts/bower_components/sweetalert/dist/sweetalert.min.js" type="text/javascript"></script>
+
+<link defer href="https://ows-cdn.com/admin/scripts/bower_components/bootstrap-switch-master/dist/css/bootstrap3/bootstrap-switch.css" rel="stylesheet">
+<script defer src="https://ows-cdn.com/admin/scripts/bower_components/bootstrap-switch-master/dist/js/bootstrap-switch.js" type="text/javascript"></script>
+
+
+<!-- Media Boxes JS files -->
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/components/Isotope/jquery.isotope.min.js"></script>
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/components/imagesLoaded/jquery.imagesLoaded.min.js"></script>
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/components/Transit/jquery.transit.min.js"></script>
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/components/jQuery Easing/jquery.easing.js"></script>
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/components/Waypoints/waypoints.min.js"></script>
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/components/Modernizr/modernizr.custom.min.js"></script>
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/components/Magnific Popup/jquery.magnific-popup.min.js"></script> <!-- Only if you are going to use Magnific Popup -->
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/components/Fancybox/jquery.fancybox.min.js"></script> <!-- Only if you are going to use fancybox -->
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/js/jquery.mediaBoxes.dropdown.js"></script>
+<script src="https://ows-cdn.com/scripts/media-boxes/plugin/js/jquery.mediaBoxes.js"></script>
+
+<!-- MightySlider files -->
+<script defer type="text/javascript" src="https://ows-cdn.com/scripts/mightyslider/assets/js/jquery.easing-1.3.pack.js"></script>
+<script defer type="text/javascript" src="https://ows-cdn.com/scripts/mightyslider/src/js/mightyslider.min.js"></script>
+<link defer rel="stylesheet" type="text/css" href="https://ows-cdn.com/scripts/mightyslider/src/css/mightyslider.css"/>
+
+<link defer rel="stylesheet" href="https://ows-cdn.com/scripts/animation/animate.min.css">
+<link defer rel="stylesheet" href="https://ows-cdn.com/scripts/animation/hover.css">
+<script src="https://ows-cdn.com/scripts/animation/wow.min.js"></script>
+<script defer src="https://ows-cdn.com/scripts/stellar/jquery.stellar.min.js"></script>
+<script defer src="https://ows-cdn.com/scripts/jquery-color/jquery.color-2.1.2.min.js"></script>
+
+<link rel="stylesheet" href="https://ows-cdn.com/scripts/social-likes/social-likes_flat.css">
+<script src="https://ows-cdn.com/scripts/social-likes/social-likes.min.js"></script>
+
+
+
+<!-- Slick Modal -->
+<link defer href="https://ows-cdn.com/scripts/slick-modal-popups/src/plugin/css/slickmodal.min.css" rel="stylesheet" type="text/css" />
+<script src="https://ows-cdn.com/scripts/slick-modal-popups/src/plugin/js/jquery.slickmodal.min.js"></script>
+
+<!-- Toastr -->
+<link defer rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">  
+<script defer src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js" type="text/javascript"></script>		 
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />	
+
+<link rel="stylesheet" href="https://ows-cdn.com/scripts/social-branding.min.css?cb=1773845225" type="text/css" />
+
+<link href="/scripts/responsive-mega-drop-down-menu/css/mega_menu.css?cb=1773845223" rel="stylesheet">
+<script src="/scripts/responsive-mega-drop-down-menu/js/mega_menu.js?cb=1773845223"></script>
+
+
+<script>
+
+
+var wow = new WOW(
+  {
+    boxClass:     'wow',      // animated element css class (default is wow)
+    animateClass: 'animated', // animation css class (default is animated)
+    offset:       0,          // distance to the element when triggering the animation (default is 0)
+    mobile:       true,       // trigger animations on mobile devices (default is true)
+    live:         true,       // act on asynchronously loaded content (default is true)
+    callback:     function(box) {
+      // the callback is fired every time an animation is started
+      // the argument that is passed in is the DOM node being animated
+    },
+    scrollContainer: null // optional scroll container selector, otherwise use window
+  }
+);
+wow.init();	
+
+
+$( document ).ready(function() { 
+	
+	// parallax
+	$( window ).stellar( { horizontalScrolling:false } ); 
+	
+	
+	
+	// Select all links with hashes
+	$('a[href*="#"]')
+	  // Remove links that don't actually link to anything
+	  .not('[href="#"]')
+	  .not('[href="#0"]')
+	  .not('[href^="#carousel"]')	  
+		.not('.nav-link')	  
+	  .click(function(event) {
+	    // On-page links
+	    if (
+	      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+	      && 
+	      location.hostname == this.hostname
+	    ) {
+	      // Figure out element to scroll to
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+	      // Does a scroll target exist?
+	      if (target.length) {
+	        // Only prevent default if animation is actually gonna happen
+	        event.preventDefault();
+	        $('html, body').animate({
+	          scrollTop: target.offset().top
+	        }, 1000, function() {
+	          // Callback after animation
+	          // Must change focus!
+	          var $target = $(target);
+	          $target.focus();
+	          if ($target.is(":focus")) { // Checking if the target was focused
+	            return false;
+	          } else {
+	            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+	            $target.focus(); // Set focus again
+	          };
+	        });
+	      }
+	    }
+	  });
+	
+	
+});
+
+
+
+function sm_add_to_cart(i, e, id)
+{
+	// If in cart then view cart
+	if ($('#'+id).text() == 'View in cart')
+	{
+		window.location.replace("/cart/show_cart.php");
+		return;
+	}
+	
+	// If update cart
+	if ($('#'+id).text() == 'Update cart')
+	{
+		console.log('process update via ajax');
+	}	
+	
+	// If select
+	if (e == '') 
+	{ 
+		var qty_select = true;
+		e = $('#sm-cart-select-'+i).val();
+		q = $('#sm-quantity-'+i).val();  
+		q_sel = $('#sm-quantity-'+i);
+	}
+	else
+	{
+		var qty_select = false;
+		q = $('#sm-quantity-'+e).val(); 
+		q_sel = $('#sm-quantity-'+e);		
+	}
+
+	console.log('sm_add_to_cart');	
+	console.log('i:'+i);
+	console.log('e:'+e);
+	console.log('id:'+id);	
+	console.log('q:'+q);
+
+	
+  $.ajax({					  	
+        url:'/cart/ajax_add_cart.php',
+        type:'POST',
+        data: { 'i': i, 'e': e, 'q': q },
+				dataType: 'json',
+        success: function(response)			           
+        {            
+        	console.log(response);					            			            			
+
+        	if ((response.success) || ((response.q_added > 0) && (response.max_allowed_reached)))
+        	{
+        		
+        		        		
+        		
+        		
+        		// update cart display
+        		$('#sm-cart-item-tr-header-'+e).remove();
+        		$('#sm-cart-empty-msg').remove();
+        		$('.sm-cart-number-of-items').text(response.number_of_items);
+        		$('.sm-cart-items_price').text(response.items_price);   
+        		
+        		
+        		$('#sm-ecomm-header-cart-tbody tr:first').before(response.item_details);     		
+						$('#sm-ecomm-header-cart').slideDown();  
+						
+						
+						// removed
+						if (response.q_requested == 0)
+						{
+							swal({
+							  html:true,
+							  title: "",
+							  text: "Item removed from your cart.<br>"+response.item_name,
+							  type: "info",
+							  showCancelButton: false,
+							  confirmButtonColor: "primary",
+							  confirmButtonText: "Okay",
+							  closeOnConfirm: false
+							});								
+						}
+						
+						
+						// max reached
+						if (response.max_allowed_reached)
+						{
+							swal({
+							  html:true,
+							  title: "",
+							  text: response.max_allowed_reason+"<br>"+response.item_name,
+							  type: "info",
+							  showCancelButton: false,
+							  confirmButtonColor: "primary",
+							  confirmButtonText: "Okay",
+							  closeOnConfirm: false
+							});									
+							
+							// set quantity select to max_allowed
+							
+							// If select
+							if (qty_select) 
+							{ 
+								$('#sm-quantity-'+i).val(response.max_allowed);
+							}
+							else
+							{
+								q = $('#sm-quantity-'+e).val(response.max_allowed); 
+							}							
+							
+						}
+
+        		
+        		// switch buttons
+        		if ((response.item_details != "<div id=\"sm-cart-empty-msg\">Your cart is empty.</a>") && (response.item_details != ''))
+        		{
+	        		$('#sm-button-add-to-cart-'+i).text('View in cart');
+	        		$('#sm-button-add-to-cart-'+i).addClass('btn-3rd-inv');
+	        		$('#sm-button-add-to-cart-'+i).removeClass('btn-3rd');
+	        		
+	        		$('#sm-button-add-to-cart-'+e).text('View in cart');
+	        		$('#sm-button-add-to-cart-'+e).addClass('btn-3rd-inv');
+	        		$('#sm-button-add-to-cart-'+e).removeClass('btn-3rd');        		
+        		}
+        		else
+      			{
+	        		$('#sm-button-add-to-cart-'+i).text('Add to cart');
+	        		$('#sm-button-add-to-cart-'+i).addClass('btn-3rd');
+	        		$('#sm-button-add-to-cart-'+i).removeClass('btn-3rd-inv');
+	        		
+	        		$('#sm-button-add-to-cart-'+e).text('Add to cart');
+	        		$('#sm-button-add-to-cart-'+e).addClass('btn-3rd');
+	        		$('#sm-button-add-to-cart-'+e).removeClass('btn-3rd-inv');
+	        		
+	        		q_sel.val(1);        				
+      			}
+        		// add item to cart
+        		
+        		// show popup for add to cart
+        		/*
+        		$('#sm_add_to_cart_div').SlickModals({
+                popup_reopenClass: 'sm-1',
+                popup_animation: 'slideRight',
+                popup_position: 'bottomRight',
+                popup_css: {
+                    'padding': '40px',
+                    'margin' : '30px'
+                }
+            });
+            */
+
+       //     toastr["info"]("Added to cart.", "Success");              
+					}
+					else
+					{														
+							swal({
+							  html:true,
+							  title: "",
+							  text: "This item is currently out of stock.",
+							  type: "error",
+							  showCancelButton: false,
+							  confirmButtonColor: "primary",
+							  confirmButtonText: "Okay",
+							  closeOnConfirm: false
+							});	
+					}                									  		
+
+        },
+	      error: function() 
+	      {
+					
+				},
+       timeout : 15000//timeout of the ajax call															  	
+  });
+			
+
+}
+
+
+
+function sm_update_cart(i_e, qty)
+{
+	var timeout_length = 3200;
+	
+	console.log('sm_update_cart');
+	console.log('i_e:'+i_e);
+	console.log('qty:'+qty);	
+	
+	if ((qty > 1) || (qty == 0))
+		var items = ' items';
+	else
+		var items = ' item';
+	
+  $.ajax({					  	
+        url:'/cart/ajax_update_cart.php',
+        type:'POST',
+        data: { 'i_e': i_e, 'qty': qty },
+				dataType: 'json',
+        success: function(response)			           
+        {            
+        	console.log(response);					            			            			
+
+        	if (response.success)
+        	{	        		
+						if ((response.total_items > 1) || (response.total_items == 0))
+							var items = ' items';
+						else
+							var items = ' item';
+		        			        		
+        		// update cart display
+        		if (qty == 0)
+        		{
+        			$('#sm-cart-item-tr-'+i_e).fadeOut( timeout_length, "linear" );
+        			$('#sm-cart-item-tr-header-'+i_e).fadeOut( timeout_length, "linear" );        			
+        		}
+        		else
+      			{
+      				if($('#sm-cart-item-tr-'+i_e).is(':animated')) {
+       					$('#sm-cart-item-tr-'+i_e).stop().animate({opacity:'100'});
+       					$('#sm-cart-item-tr-header-'+i_e).stop().animate({opacity:'100'});       					
+      				}
+      				$("[name="+i_e+"]").val(response.q_added);
+      			}
+      			
+      			if  (response.total_items == 0)
+      			{
+      				$('#sm-cart-table').fadeOut( timeout_length, "linear" ); 
+      				$('#green-proceed_to_check_out').fadeOut( timeout_length, "linear" ); 
+      			}
+      			else
+      			{
+      				if($('#sm-cart-table').is(':animated')) {
+       					$('#sm-cart-table').stop().animate({opacity:'100'});  
+       					$('#green-proceed_to_check_out').stop().animate({opacity:'100'});          					    					
+      				}      				
+      			}	
+        			
+        		
+        		$('#sm-cart-amt-'+i_e).text(response.amount);
+        		$('#sm-cart-qty-'+i_e).text(qty);       
+        		$('.sm-cart-items_price').text(response.subtotal);          		 		
+        		$('#sm-cart-amt-subtotal').text(response.subtotal);    
+        		$('.sm-cart-number-of-items').text(response.total_items+items);  
+        		$('#sm-cart-total_items').text(response.total_items);   
+        		
+						// Remove old header row
+						$('#sm-cart-item-tr-header-' + i_e).remove();
+						
+						// Insert updated header row if qty > 0
+						if (qty > 0 && response.item_details_header) {
+						    $('#sm-ecomm-header-cart-tbody tr:first').after(response.item_details_header);
+						}        		
+
+						
+						// max reached
+						if (response.max_allowed_reached)
+						{
+							
+							swal({
+							  html:true,
+							  title: "",
+							  text: response.max_allowed_reason+"<br>"+response.item_name,
+							  type: "info",
+							  showCancelButton: false,
+							  confirmButtonColor: "primary",
+							  confirmButtonText: "Okay",
+							  closeOnConfirm: false
+							});			
+						}
+
+        		        		 		
+        		              
+					}
+					else
+					{														
+							swal({
+							  html:true,
+							  title: "",
+							  text: "We failed to update your cart.",
+							  type: "error",
+							  showCancelButton: false,
+							  confirmButtonColor: "primary",
+							  confirmButtonText: "Okay",
+							  closeOnConfirm: false
+							});	
+					}                									  		
+
+        },
+	      error: function() 
+	      {
+					
+				},
+       timeout : 15000//timeout of the ajax call															  	
+  });
+			
+
+}
+
+</script>
+<script>
+	
+function preloadImage(url)
+{
+    var img=new Image();
+    img.src=url;
+}	
+	
+	
+function getScrollbarWidth() {
+
+return window.innerWidth - document.documentElement.clientWidth;
+
+}
+
+function getScrollbarWidth2() {
+
+  // Creating invisible container
+  const outer = document.createElement('div');
+  outer.style.visibility = 'hidden';
+  outer.style.overflow = 'scroll'; // forcing scrollbar to appear
+  outer.style.msOverflowStyle = 'scrollbar'; // needed for WinJS apps
+  document.body.appendChild(outer);
+
+  // Creating inner element and placing it in the container
+  const inner = document.createElement('div');
+  outer.appendChild(inner);
+
+  // Calculating difference between container's full width and the child width
+  const scrollbarWidth = (outer.offsetWidth - inner.offsetWidth);
+
+  // Removing temporary elements from the DOM
+  outer.parentNode.removeChild(outer);
+
+  return scrollbarWidth;
+
+}  
+
+
+
+$(window).resize(function() {
+	
+  $(".wide-div").css({ 'width': ($("#T19_content_bgimage").width() + 'px') });
+  
+  // Header Bar Secondary Menu
+  if ($( window ).width() > 991)
+  {
+  	//console.log('#sm-secondary-header-container2: show');
+  	$('#sm-secondary-header-container2').css({ 'display':'block' } );	
+  }
+  else
+  {
+  	$('#sm-secondary-header-container2').css({ 'display':'none' } );	
+  	$('#sm-secondary-header-icon-fa').addClass('fa-ellipsis-h').removeClass('fa-times');
+  }
+	
+//	console.log(getScrollbarWidth());
+//  $(".wide-div").css("margin", 'calc(50% - calc(50vw - '+getScrollbarWidth() / 2+'px))');
+//$(".wide-div").css({ 'width': '100%' });
+//$(".wide-div").css({ 'margin': '0' });
+//  console.log($("#sm_page_contents").width());
+});	
+	
+	
+$(document).ready(function () {
+
+$(".sm_hp").hide();
+
+
+	$("a:has(img)").css("background-image", "none");
+	$("a:has(img)").css("padding-left", "0px");
+
+
+	$('.a_no_link_tooltip').click(function(e){
+	   e.preventDefault();
+	  // Do stuff
+	});	
+	
+	$('[data-toggle="tooltip"]').tooltip();
+
+
+$("[name='on_page_editing']").bootstrapSwitch();		
+
+$('input[name=on_page_editing]').on('switchChange.bootstrapSwitch', function (event, state) {
+
+	state = state * 1; // true | false
+	//console.log(state);
+	
+	if (!state)
+	{
+	 	$('.SM_section_toolbar_insert_above').hide();	   	
+	 	$('.SM_section_toolbar_insert_above_empty').hide();
+	 	$('.SM_section_toolbar_options').hide();	 	
+	 	$('.SM_section_editable').css({"border":"transparent"});
+	 	$('.SM_subsection_editable').css({"border":"transparent"});
+	}
+	else
+	{
+	 	$('.SM_section_toolbar_insert_above').show();	   	
+	 	$('.SM_section_toolbar_insert_above_empty').show();
+	}		
+
+  $.ajax({					  	
+        url:'/admin/db/process_o.php?t=misc&f=on_page_editing&v='+state,
+        type:'POST',
+				dataType: 'json',
+        success: function(response)			           
+        {            
+        	//console.log(response);					            			            			
+
+        	if (response.success)
+        	{
+      	                       
+					}
+					else
+					{								
+						swal({
+						  title: 'Error',
+						  text: 'We could not change this setting.\n'+response.debug,
+	  					type: "error",
+							allowOutsideClick: true		
+						});																												
+					}      									  		
+
+        },
+	      error: function() 
+	      {
+						swal({
+						  title: 'Error',
+						  text: 'We could not change this setting.',
+	  					type: "error",
+							allowOutsideClick: true											  
+						});	
+				},
+       timeout : 15000//timeout of the ajax call															  	
+  });
+
+
+});	
+
+
+$("[name='preview_drafts']").bootstrapSwitch();	
+
+$('input[name=preview_drafts]').on('switchChange.bootstrapSwitch', function (event, state) {
+
+	state = state * 1;
+
+  $.ajax({					  	
+        url:'/admin/db/process_o.php?t=misc&f=preview_drafts&v='+state,
+        type:'POST',
+				dataType: 'json',
+        success: function(response)			           
+        {            
+        	if (!response.success)
+					{								
+						swal({
+						  title: 'Error',
+						  text: 'We could not change this setting.\n'+response.debug,
+	  					type: "error",
+							allowOutsideClick: true		
+						});																												
+					}
+					else 
+					{
+						location.reload();     									  		
+					}
+
+        },
+	      error: function() 
+	      {
+						swal({
+						  title: 'Error',
+						  text: 'We could not change this setting.',
+	  					type: "error",
+							allowOutsideClick: true											  
+						});	
+				},
+       timeout : 15000															  	
+  });
+
+});
+
+
+	
+
+
+$(".wide-div").css("margin", 'calc(50% - calc(50vw - '+Math.floor(getScrollbarWidth2() / 2)+'px))');
+$(".wide-div").css({ 'width': ($("#T19_content_bgimage").width() + 'px') });
+
+
+//  $(".wide-div").css({ 'width': ($("#T19_content_bgimage").width() + 'px') });
+//  console.log('jquery_loaded.php '+($("#T19_content_bgimage").width() + 'px'));
+
+});
+
+
+
+
+
+
+
+</script>
+
+ <div id="google_translate_element"></div><!--google_translate_element-->
+
+<script> 
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script>
+
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<style>
+body { position: absolute !important; top:0; bottom:0; width:100%; word-wrap:break-word; }
+#google_translate_element { position: fixed; top: 150px; right: 20px; z-index: 999; padding: 4px; background: rgba(255, 255, 255, 0.5); }
+
+.nav-brand {
+    line-height: 20px !important;
+}
+
+.navigation-portrait .nav-brand {
+    font-size: 14px !important;
+}
+
+.nav-menu > li > a {
+    height: 70px;
+    padding: 26px 10px !important;
+}
+
+@media screen and (max-width: 990px) {
+#google_translate_element { position: absolute; top: 150px; right: 20px; z-index: 999; padding: 4px; background: rgba(255, 255, 255, 0.5); }
+}
+
+@media screen and (max-width: 500px) {
+ .nav-search { display:none; } 
+ .nav-brand { padding: 0; }
+ .navigation-portrait .nav-brand { font-size: 12px !important; }
+}
+
+</style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6584Q2Z5X3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6584Q2Z5X3');
+</script>
+
+</head>
+
+
+
+
+
+<!------- BODY ------->
+
+
+
+
+<body topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" marginwidth="0" marginheight="0" >
+
+
+
+
+
+
+
+<div id="sm_page_contents">
+	
+
+
+
+
+<!------- HEADER ------->
+
+
+
+
+
+
+
+<a name="TOP"></a>
+
+
+
+<script>
+
+$( document ).ready(function() {
+	
+	$(".nav-menu > li > a").on("click", function(){
+		if ($(this).attr("href") != "#") {
+	    $("#navigation").data("navigation").toggleOffcanvas();
+	  }
+	});
+
+});
+
+</script>
+
+<div id="T19_menu_container" class="w-100 sticky"><div id="T19_menu_bgimage" class=" easymenu">
+<div id="T19_menu_bgcolor" class="easymenu">
+<div id="T19_menu_image" class="container pl-0 pr-0 easymenu">
+<div id="T19_menu_color" class="pl-2 pr-2 easymenu">
+
+
+<link href="/scripts/meganavigation/css/navigation.css?1773845223" rel="stylesheet">
+<link href="/scripts/meganavigation/css/navigation.skin.striped-light.css" rel="stylesheet">
+<script type="text/javascript" src="/scripts/meganavigation/js/navigation.js?1773845223"></script>
+
+      
+ 
+<nav id="navigation" class="navigation">
+    
+    <div class="nav-header d-flex align-items-center">
+        
+        <a class="nav-logo" id="T19_menu_logo" href="/">
+            <img src="/cache/images/img-473-132x150-href_132x150.png" alt="logo">
+        </a>        
+
+        
+        <a class="nav-logo" id="T19_menu_logo_mobile" href="/">
+            <img src="/cache/images/img-474-132x150-href_132x150.png" alt="logo">
+        </a>        
+
+        <a class="nav-brand" id="T19_menu_title" href="/">
+            The Romanian Orthodox Episcopate of America<br>Episcopia Ortodoxă Română din America        </a>
+      
+        <a class="nav-brand" id="T19_menu_title_mobile" href="/">
+            The Romanian Orthodox Episcopate of America<br>Episcopia Ortodoxă Română din America        </a>        
+        
+        
+        <div class="nav-toggle"></div>
+    </div>
+    
+    
+
+    
+    
+    <div class="nav-menus-wrapper">
+        
+        
+        
+				<ul class="nav-menu nav-menu-social align-to-right">
+					
+								    <li>
+								        <a href="https://www.facebook.com/ROEofA" target="_blank">
+								            <i class="fa fa-facebook"></i>
+								        </a>
+								    </li>
+								    <li>
+								        <a href="https://twitter.com/ROEofA" target="_blank">
+								            <i class="fa fa-twitter"></i>
+								        </a>
+								    </li>
+								    <li>
+								        <a href="https://www.youtube.com/user/RomanianDioceseROEA" target="_blank">
+								            <i class="fa fa-youtube"></i>
+								        </a>
+								    </li>
+											
+				</ul> 
+ 				         
+        
+        <ul class="nav-menu align-to-right">
+        	
+							<li><a href="https://www.roea.org/administration.html">Administration</a>
+
+<ul class="nav-dropdown   ">
+
+<li><a href="https://www.roea.org/hierarchs.html">Hierarchs</a>
+
+<ul class="nav-dropdown nav-dropdown-horizontal ">
+
+<li><a href="https://www.roea.org/rulinghierarcharchbishopnathaniel.html">Ruling Hierarch - Archbishop Nathaniel</a>
+
+<li><a href="https://www.roea.org/vicarbishopbishopandrei.html">Vicar Bishop - Bishop Andrei</a>
+
+<li><a href="https://www.roea.org/formerhierarchs1.html">Former Hierarchs</a>
+
+<ul class="nav-dropdown nav-dropdown-horizontal ">
+
+<li><a href="https://www.roea.org/bishoppolicarp.html">Bishop Policarp</a>
+
+<li><a href="https://www.roea.org/archbishopvalerian.html">Archbishop Valerian</a>
+
+</ul>
+
+</ul>
+
+<li><a href="https://www.roea.org/chanceryoffice.html">Chancery Office</a>
+
+<li><a href="https://www.roea.org/constitutionbylawsandofficialdocuments.html">Constitution & By-Laws and Official Documents</a>
+
+<li><a href="https://www.roea.org/episcopatecouncil.html">Episcopate Council</a>
+
+<li><a href="https://www.roea.org/deaneries.html">Deaneries</a>
+
+<li><a href="https://www.roea.org/romanianorthodoxvicariateofcanada.html">Romanian Orthodox Vicariate of Canada</a>
+
+<li><a href="https://www.roea.org/departmentsandcommissions.html">Departments and Commissions</a>
+
+<ul class="nav-dropdown nav-dropdown-horizontal ">
+
+<li><a href="https://www.roea.org/departmentofchristianassistance.html">Department of Christian Assistance</a>
+
+<li><a href="https://www.roea.org/departmentofmissionsunitedstates.html">Department of Missions (United States)</a>
+
+<li><a href="https://www.roea.org/departmentofmissionscanada.html">Department of Missions (Canada)</a>
+
+<li><a href="https://www.roea.org/departmentofpublications.html">Department of Publications</a>
+
+<li><a href="https://www.roea.org/departmentofreligiouseducation.html">Department of Religious Education</a>
+
+<li><a href="https://www.roea.org/departmentofyouthandyoungadultministries.html">Department of Youth and Young Adult Ministries</a>
+
+<li><a href="https://www.roea.org/representativeforexternalaffairs.html">Representative for External Affairs</a>
+
+<li><a href="https://www.roea.org/refereeonmatrimonialaffairs.html">Referee on Matrimonial Affairs</a>
+
+<li><a href="https://www.roea.org/commissiononreligiousart.html">Commission on Religious Art</a>
+
+<li><a href="https://www.roea.org/commissiononvocations.html">Commission on Vocations</a>
+
+<li><a href="https://www.roea.org/legalcounsel.html">Legal Counsel</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/churchcourts.html">Church Courts</a>
+
+<ul class="nav-dropdown nav-dropdown-horizontal ">
+
+<li><a href="https://www.roea.org/spiritualconsistory.html">Spiritual Consistory</a>
+
+<li><a href="https://www.roea.org/monasticspiritualconsistory.html">Monastic Spiritual Consistory</a>
+
+<li><a href="https://www.roea.org/episcopatetribunal.html">Episcopate Tribunal</a>
+
+</ul>
+
+</ul>
+
+<li><a href="https://www.roea.org/directories.html">Directories</a>
+
+<ul class="nav-dropdown   ">
+
+<li><a href="https://www.roea.org/parishes.html">Parish Directory</a>
+
+<li><a href="https://www.roea.org/clergy.html">Clergy Directory</a>
+
+<li><a href="https://www.roea.org/monasticcommunities.html">Monastic Communities</a>
+
+<ul class="nav-dropdown nav-dropdown-horizontal ">
+
+<li><a href="https://www.roea.org/transfiguration.html">Transfiguration</a>
+
+<li><a href="https://www.roea.org/dormition.html">Dormition</a>
+
+<li><a href="https://www.roea.org/holyresurrection.html">Holy Resurrection</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/auxiliaryorganizations.html">Auxiliary Organizations</a>
+
+<ul class="nav-dropdown nav-dropdown-horizontal ">
+
+<li><a href="https://www.roea.org/arfora.html">ARFORA</a>
+
+<li><a href="https://www.roea.org/arcola.html">ARCOLA</a>
+
+<li><a href="https://www.roea.org/aroy.html">AROY</a>
+
+<li><a href="https://www.roea.org/orthodoxbrotherhoodusa.html">Orthodox Brotherhood USA</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/widowedpreotese.html">Widowed Preotese</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/aboutroea.html">About ROEA</a>
+
+<ul class="nav-dropdown   ">
+
+<li><a href="https://www.roea.org/history.html">History</a>
+
+<li><a href="https://www.roea.org/canonicalstatus.html">Canonical Status</a>
+
+<li><a href="https://www.roea.org/diocesancathedral.html">Diocesan Cathedral</a>
+
+<li><a href="https://www.roea.org/summercamps.html">Summer Camps</a>
+
+<ul class="nav-dropdown nav-dropdown-horizontal ">
+
+<li><a href="https://www.roea.org/campvatraforjuniors.html">Camp Vatra for Juniors</a>
+
+<li><a href="https://www.roea.org/campvatraforseniors.html">Camp Vatra for Seniors</a>
+
+<li><a href="#">Camp St Anthony the Great</a>
+
+<li><a href="#">Camp St Mary</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/stmarycemetery.html">St. Mary Cemetery</a>
+
+<li><a href="https://www.roea.org/inmemoriamroeaclergy.html">In Memoriam - ROEA Clergy</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/communications.html">Communications</a>
+
+<ul class="nav-dropdown   ">
+
+<li><a href="https://www.roea.org/newsevents.html">News & Events</a>
+
+<li><a href="https://www.roea.org/photogalleries.html">Photo Galleries</a>
+
+<li><a href="https://www.roea.org/pastoralletters.html">Pastoral Letters</a>
+
+<li><a href="https://www.roea.org/soliatheherald.html">Solia - The Herald</a>
+
+<li><a href="https://www.roea.org/soliacalendaralmanac.html">Solia Calendar Almanac</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/resources1.html">Resources</a>
+
+<ul class="nav-dropdown   ">
+
+<li><a href="https://www.roea.org/about_orthodoxy.html">About Orthodoxy</a>
+
+<li><a href="https://www.roea.org/dailyprayers.html">Daily Prayers / Rugăciunile zilnice</a>
+
+<li><a href="https://www.roea.org/calendartipicpaschalia.html">Calendar / Tipic / Paschalia</a>
+
+<li><a href="https://www.roea.org/scholarships.html">Scholarships</a>
+
+<ul class="nav-dropdown nav-dropdown-horizontal ">
+
+<li><a href="https://www.roea.org/williamrstanitzaroy.html">William R Stanitz / AROY</a>
+
+<li><a href="https://www.roea.org/dumitrugoleagoldygemu.html">Dumitru Golea Goldy-Gemu</a>
+
+<li><a href="https://www.roea.org/arforamarthagavrila.html">ARFORA / Martha Gavrila</a>
+
+<li><a href="https://www.roea.org/arforahelenmuntean.html">ARFORA / Helen Muntean</a>
+
+<li><a href="https://www.roea.org/arforaundergraduate.html">ARFORA / Undergraduate</a>
+
+<li><a href="https://www.roea.org/eleanorbujea.html">Dr. Eleanor Bujea Scholarship</a>
+
+<li><a href="https://www.roea.org/bujeamemorial.html">Bujea Memorial</a>
+
+<li><a href="https://www.roea.org/victorpopscholarship.html">Victor Pop Scholarship</a>
+
+<li><a href="https://www.roea.org/episcopateseminarianfund.html">Episcopate Seminarian Fund</a>
+
+<li><a href="https://www.roea.org/florencehelensirbscholarship.html">The ROEA Florence Helen Sirb Scholarship</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/soliabookstore.html">Solia Bookstore</a>
+
+<li><a href="https://www.roea.org/liturgicaltextsmusic.html">Liturgical Texts & Music</a>
+
+<li><a href="https://www.roea.org/downloadablepublications.html">Downloadable Publications</a>
+
+<li><a href="https://www.roea.org/parishsampleformsguidelines.html">Parish Sample Forms & Guidelines</a>
+
+<li><a href="https://www.roea.org/clergysampleformsguidelines.html">Clergy Sample Forms & Guidelines</a>
+
+<li><a href="https://www.roea.org/sexualmisconductpreventionresponse.html">Sexual Misconduct Prevention & Response</a>
+
+<li><a href="https://www.roea.org/lecturibiblicezilnicesfiniizilei.html">Lecturi biblice zilnice & Sfinții zilei</a>
+
+<li><a href="https://www.roea.org/recommendedlinks.html">Recommended Links</a>
+
+<li><a href="https://www.oca.org/about/evangelization-pamphlets" target="_blank">OCA Pamphlets</a>
+
+</ul>
+
+<li><a href="#">Make a Donation</a>
+
+<ul class="nav-dropdown   ">
+
+<li><a href="https://www.roea.org/makeadonation.html">Online Donations</a>
+
+<li><a href="https://www.roea.org/vatragenerationsproject.html">Vatra Generations / Generațiile Vetrei</a>
+
+<li><a href="https://www.roea.org/principlesfororthodoxgiving.html">Principles for Orthodox Giving</a>
+
+</ul>
+
+<li><a href="https://www.roea.org/search.html"><i class="pl-2 pr-2 fas fa-search"></i>&nbsp;</a>
+
+</li>	    
+						  
+						         
+        </ul>
+       
+     
+    </div>
+    
+</nav>
+
+<script>
+$("#navigation").navigation({
+    mobileBreakpoint: 1200});
+</script>
+
+
+
+</div></div></div></div></div></div><div id="T19_menu_header"></div>
+	
+		<div class="headerbarimg-1 row mr-0 ml-0" style="background-position: center top; background-size: cover; " >
+		<div class="headerbarimg-1 container-fluid row mr-0 ml-0" style="background-color: ;">
+		<div class="align-self-center container">
+		<div class="p-3 PAGE_TITLE_DARK sm-dark text-left" id="T19_page_title">		
+	Recommended Links<div id="SM_breadcrumbs_div_headerbar" class="PARAGRAPH_TEXT sm-dark  text-left"><a class="sm-dark  text-left" href="/"><i class="fas fa-home"></i></a> / <span class="sm-dark  text-left"><a class="sm-dark  text-left" href="/resources1.html">Resources</a> / Recommended Links</span></div>	</div>
+	</div>
+	</div>
+	</div>
+	<div id="T19_content_bgimage" class=" ">
+<div id="T19_content_bgcolor">
+<div id="T19_content_image" class="container pl-0 pr-0">
+<div id="T19_content_color" class="pl-2 pr-2">
+	
+	
+
+
+
+
+<!------- CONTENT HEADER ------->
+
+
+
+<div class="PARAGRAPH_TEXT"><!-- Google tag (gtag.js) -->
+<p>&nbsp;</p></div>
+
+<div class="clearfix">
+
+
+
+</div>
+
+
+
+
+
+<!------- CONTENT ------->
+
+
+
+<div id="main_content_container"><style> #T19_panel_side1_c, #T19_panel_side2_c { 
+  	width: 100% !important; height:100% !important; 
+  	} </style>
+
+<div id="SECTION_28_1" class=" mt-0 mb-0  "    data-id="134">
+
+
+<style>.shape_div_SECTION_TITLE_28_1 {  } </style>
+
+
+
+<style>.shape_container_SECTION_TITLE_28_1:hover .shape_div_SECTION_TITLE_28_1 {  } </style>
+
+
+
+<style>.shape_container_SECTION_TITLE_28_1:hover {  } </style>
+
+
+
+<style>.shape_container_SECTION_TITLE_28_1 {  } </style>
+
+
+
+<div>
+
+
+
+<div class="shape_container_SECTION_TITLE_28_1">
+
+<div id="ROW_28_1" class="  shape_div_SECTION_TITLE_28_1" >
+<div id="COL_28_1" class="pt-0 pb-0 pl-2 pr-2 " style="padding-top: 20px !important; ">
+
+
+
+<!-- SECTION_28_1 -->
+
+<div id="SECTION_TITLE_28_1">
+
+
+
+</div>
+
+
+<div id="SM_paragraph_l1_container">
+
+<div id="SM_paragraph_l1_txt">
+<div align="left" class="PARAGRAPH_TEXT" ><p><span style="font-size: x-large;"><strong>To submit a link not currently on the website, please send an email with your suggestion to:</strong>&nbsp;&nbsp;<span style="color: #000066;"><span style="color: #000000;"><a href="mailto:webmaster@roea.org">webmaster@roea.org</a></span></span></span></p>
+</div>
+</div>
+
+</div>
+
+
+<div style="clear:both;"></div>
+
+
+
+</div></div></div>
+
+</div></div>
+
+<div id="SECTION_28_2" class=" mt-0 mb-0  "    data-id="133">
+
+
+<style>.shape_div_SECTION_TITLE_28_2 {  } </style>
+
+
+
+<style>.shape_container_SECTION_TITLE_28_2:hover .shape_div_SECTION_TITLE_28_2 {  } </style>
+
+
+
+<style>.shape_container_SECTION_TITLE_28_2:hover {  } </style>
+
+
+
+<style>.shape_container_SECTION_TITLE_28_2 {  } </style>
+
+
+
+<div>
+
+
+
+<div class="shape_container_SECTION_TITLE_28_2">
+
+<div id="ROW_28_2" class="  shape_div_SECTION_TITLE_28_2" >
+<div id="COL_28_2" class="pt-0 pb-0 pl-2 pr-2 " style="padding-top: 20px !important; ">
+
+
+
+<!-- SECTION_28_2 -->
+
+<div id="SECTION_TITLE_28_2">
+
+
+
+</div>
+
+
+<div id="SM_paragraph_l1_container">
+
+<div id="SM_paragraph_l1_txt">
+<div align="left" class="PARAGRAPH_TEXT" ><table class="PARAGRAPH_TEXT" style="height: 11741px; width: 100%;" width="100%" cellpadding="2">
+<tbody>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="21"></a>Assembly of Canonical Orthodox Bishops of North and Central America</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.goarch.org/archdiocese/otherpatriarchal/alb/index_html" target="new">Albanian Orthodox Diocese of America</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.acrod.org/" target="new">American Carpatho-Russian Orthodox Diocese of the U.S.A.</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.antiochian.org/" target="new">Antiochian Orthodox Christian Archdiocese of North America</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.bulgariandiocese.org/" target="new">Bulgarian Eastern Orthodox Church</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.goarch.org/" target="new">Greek Orthodox Archdiocese of America</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.oca.org/" target="new">Orthodox Church in America</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.russianchurchusa.org/index.php3?ln=en" target="new">Representation Moscow Patriarchate in the USA</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.romarch.org/" target="new">Romanian Orthodox Archdiocese of America &amp; Canada</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.serborth.org/" target="new">Serbian Orthodox Church in North and South America</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.uocofusa.org/" target="new">Ukrainian Orthodox Church of the USA</a></span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="6"></a>Assembly of Orthodox Canonical Bishops Agencies and Endorsed Organizations&nbsp;</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://eocs.org/" target="new">Eastern Orthodox Committee on Scouting (EOCS)</a>&nbsp;- EOCS's purpose is to conduct the mission of our Lord and His Church via the Boy Scouts of America and the Girl Scouts USA programs on a national level.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.iocc.org/" target="new">International Orthodox Christian Charities (IOCC)</a>&nbsp;-&nbsp;<span class="homemissiontext">IOCC, in the spirit of Christ&rsquo;s love, offers emergency relief and development programs to those in need worldwide, without discrimination, and strengthens the capacity of the Orthodox Church to so respond.</span></span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ocampr.org/" target="new">Orthodox Christian Association of Medicine, Psychology and Religion (OCAMPR)</a>&nbsp;- OCAMPR exists to foster interdisciplinary dialogue and promote Christian fellowship among helping professionals in medicine, psychology and religion. Members pursue an understanding of the whole person which integrates the basic assumptions of medicine, psychology and religion within the Orthodox Christian faith in educating and serving Church and community.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxed.org/" target="new">Orthodox Christian Education Commisson (OCEC)</a>&nbsp;- Founded in 1957 by a group of Orthodox theologians and educators as a forum to exchange ideas and to search for solutions to common educational problems, OCEC currently aims to develop and publish educational material for and offers support services to Orthodox Christian Churches in North America.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ocf.net/" target="new">Orthodox Christian Fellowship (OCF)</a>&nbsp;-&nbsp;As the official collegiate campus ministry program under SCOBA, &nbsp; OCF's mission&nbsp;is to support fellowships on college campuses, whose members experience and witness to the Orthodox Christian Church through community life, prayer, service to others and study of the Faith.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ocf.net/" target="new">Orthodox Christian Mission Center (OCMC)</a>&nbsp;-&nbsp;<span id="lblArticle">OCMC has been sanctioned by SCOBA to help the faithful of North America to proclaim the fullness of the Orthodox Christian Faith with the world. Each year hundreds of Orthodox Christians answer the call to make disciples of all nations through one of OCMC&rsquo;s many initiatives.</span></span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.myocn.net/" target="new">Orthodox Christian Network (OCN)</a>&nbsp;- OCN, an agency of SCOBA, has been established to create a national, sustainable and effective media witness for the Orthodox Christian Church in North America. OCN produces high-quality programs and media tools for local parishes that reach people for Christ 24 hours a day, 7 days a week.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ocpm-scoba.org/" target="new">Orthodox Christian Prison Ministry (OCPM)</a>&nbsp;- &nbsp;</span><br /><span style="font-size: x-large;">OCPM ministers to prisoners and their families&nbsp;by mobilizing the Church to work in this important vineyard of the Kingdom of Heaven.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orth-transfiguration.org/" target="new">Orthodox Fellowship of the Transfiguration</a>&nbsp;- Our purpose is to provide an Orthodox response to the growing ecological crisis of our day and to be of service to the Church in a variety of ways.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://incommunion.org/" target="new">Orthodox Peace Fellowship</a>&nbsp;- The Orthodox Peace Fellowship of the Protection of the Mother of God is an association of Orthodox Christians belonging to different nations and jurisdictions trying to live the peace of Christ in day-to-day life, including situations of division and conflict. We publish a quarterly journal, "In Communion," and provide other resources for individuals and parishes.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.otsamerica.org/" target="new">Orthodox Theological Society of America (OTSA)</a>&nbsp;- OTSA promotes Orthodox theology, cultivates fellowship and cooperation among Orthodox Christians, and coordinates the work of Orthodox theologians in the Americas.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.projectmexico.org/" target="new">Project Mexico &amp; St. Innocent Orphanage</a>&nbsp;-&nbsp;<span style="font-family: Arial, Helvetica, sans-serif;">Since 1988, Project Mexico has been involving young people in the alleviation of suffering by building homes for Mexico's poor. Hundreds of homes have been built for needy families with the help of nearly 10,000 volunteers. In 1996 our outreach expanded through the opening of St. Innocent Orthodox Orphanage in Tijuana which provides a home for teenage boys who live on the streets or who have been put out of other orphanages.</span></span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxwomen.org/" target="new">St. Catherine's Vision</a>&nbsp;- We are a group of women graduates of Orthodox Theological Schools that have&nbsp;come together to&nbsp;help&nbsp;harness&nbsp;the&nbsp;skills&nbsp;and&nbsp;knowledge&nbsp;of our women graduates in the service of the Church.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.zoeforlifeonline.org/" target="new">ZOE for Life</a>&nbsp;- ZOE is a non-profit Christ-centered support organization with three major goals: to help women in crisis pregnancy, to assist Orthodox Christian couples seeking to adopt, and to create an Orthodox Christian abstinence program to educate young people.</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="1"></a>Autocephalous and Autonomous Churches&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><a href="https://ec-patr.org/"><span style="font-size: x-large;">Ecumenical Patriarchate of Constantinople</span></a></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.greekorthodox-alexandria.org/index.php?lang=en" target="new">Patriarchate of Alexandria</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.antiochpat.org/" target="new">Patriarchate of Antioch</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://bulch.tripod.com/boc/mainpage.htm" target="new">Patriarchate of Bulgaria</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.patriarchate.ge/_en/" target="new">Patriarchate of Georgia</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://jerusalem-patriarchate.info/en/welcome.htm" target="new">Patriarchate of Jerusalem</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.mospat.ru/?lng=1" target="new">Patriarchate of Moscow</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.patriarhia.ro/en/" target="new">Patriarchate of Romania</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.spc.rs/eng" target="new">Patriarchate of Serbia</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxalbania.org/English/MainMenu.html" target="new">The Church of Albania</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.churchofcyprus.org.cy/index.php?lang=en" target="new">The Church of Cyprus</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.pravoslavnacirkev.cz/" target="new">The Church of Czech Lands and Slovakia</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxa.org/GB/accueil_GB.htm" target="new">The Church of Estonia</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ort.fi/en/index.php" target="new">The Church of Finland</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ecclesia.gr/English/EnIndex.html" target="new">The Church of Greece</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxjapan.jp/" target="new">The Church of Japan</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodox.pl/glowna.HTM" target="new">The Church of Poland</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><a href="https://cnewa.org/eastern-christian-churches/orthodox-church/autonomous-churches/orthodox-church-of-mount-sinai/"><span style="font-size: x-large;">The Church of Sinai</span></a></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodox.org.ua/" target="new">The Church of Ukraine</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.oca.org/" target="new">The Orthodox Church in America</a></span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 29px;">
+<td style="height: 29px;"><strong><span class="SECTION_TITLE" style="font-size: x-large; color: #808080;">ROEA Parishes - Liturgical Music &amp; Activities</span></strong></td>
+</tr>
+<tr style="height: 29px;">
+<td style="height: 29px;"><span style="font-size: x-large;"><a href="https://bunavestire.ca/">Annunciation Cathedral, Montreal, Quebec</a></span>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td><span style="font-size: x-large;">&nbsp;</span></td>
+</tr>
+<tr style="height: 29px;">
+<td style="height: 29px;"><span style="font-size: x-large;"><span style="font-size: x-large;">&nbsp;</span></span><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="22"></a>Biblical &amp; Theological Resources&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.asna.ca/alaska/" target="new">Alaskan Orthodox Texts</a>&nbsp;- This site is an electronic library of historic Orthodox Christian resources in the indigenous languages of Alaska.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.biblegateway.com/" target="new">Bible Search</a></span></td>
+</tr>
+<tr style="height: 95px;">
+<td style="height: 95px;" valign="top"><span style="font-size: x-large;"><a href="http://bibleverses.com/" target="new">BibleVerses.com</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">At BibleVerses.com we are pleased to offer a free version of the Bible created specifically for users with vision disabilities. Our site is optimized for screen readers and braille displays, tailored to individuals with low vision, color blindness, and any other sight impairment.</span></p>
+<p><a href="https://allthetrivia.com/bible-trivia/"><span style="font-size: x-large;">Bible Trivia</span></a></p>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.noutati-ortodoxe.ro/calendar-ortodox/?year=2016" target="new">Calculation of the Ecclesiastical Calendar</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.holytrinitymission.org/books/english/councils_ecumenical_rudder.htm#_Toc34001972" target="new">Canons of the Seven Ecumenical Councils</a>&nbsp;- Canons of the Seven Ecumenical Councils with introduction by Archbishop Peter L'Huillier</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ccel.org/" target="new">Christian Classics Ethereal Library</a>&nbsp;- The mission of the CCEL is to build up the church by making classic Christian writings available and promoting their use.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.codexsinaiticus.org/en/" target="new">Codex Sinaiticus</a>&nbsp;- Codex Sinaiticus is one of the most important books in the world. Handwritten well over 1600 years ago, the manuscript contains the Christian Bible in Greek, including the oldest complete copy of the New Testament.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://litteralchristianlibrary.wetpaint.com/page/Early+Church+Fathers+Collection?t=anon" target="new">Early Church Fathers Collection</a>&nbsp;- This collection contains many ancient writings of the Early Church Fathers and various early Doctors of the Church.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.monachos.net/content/home" target="new">Monachos.net</a>&nbsp;- A web site dedicated to the study of Orthodox Christianity through its patristic, monastic and liturgical heritage.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.myriobiblos.gr/library%20home_en.htm" target="new">MYRIOBIBLOS Online Library</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ocabs.org/" target="new">Orthodox Center for the Advancement of Biblical Studies (OCABS)</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxfathers.org/" target="new">Orthodox Church Fathers' writings</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.voskrese.info/spl/index.html" target="new">St. Pachomius Library</a>&nbsp;- A First Draft for a Living Encyclop&aelig;dia of Orthodox Christianity.</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="7"></a>Educational Resources &amp; Family Services&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://saintjohnwonderworker.org/menologion.htm" target="new">Menologion Program for Daily Bible Readings, Troparia &amp; Kontakia</a></span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.iconsexplained.com/" target="new">Byzantine Icons - A Guide to Byzantine Icons on the Internet</a>&nbsp;- Icons Explained is a Guide to&nbsp; Byzantine Icons, Frescoes and Mosaics on the Internet &mdash; from Constantinople to Macedonia to Russia, and around the world. The Purpose of the site is to enable the visitor to (re)discover and experience the Beauty and Meaning of Byzantine Icons.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.goarch.org/en/chapel/calendar.asp" target="new">Church Calendar (Greek Orthodox Archdiocese of America)</a></span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.gettoknowtheoriginal.net/index.html" target="new">Get to Know the Original [Church]</a>&nbsp;- Looking for a Christ-Centered Church?&nbsp; We're not Jewish, but we are Orthodox.&nbsp; We're not Roman, but we are Catholic.&nbsp; We're not Protestant, but the Bible came from us.&nbsp; We're not Denominational, we're Pre-Denominational.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.goarch.org/archdiocese/departments/religioused" target="new">Greek Orthodox Archdiocese Religious Education Department</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.westsrbdio.org/prolog/prolog.htm" target="new">Lives of Saints from the Prologue of Ohrid</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxcamps.org/" target="new">Orthodox Christian Camp Association</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxed.org/" target="new">Orthodox Christian Education Commisson (OCEC)</a></span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxinfo.com/default.aspx" target="new">Orthodox Christian Information Center</a>&nbsp;- Welcome to the OCIC Web site, one of the largest and oldest sites on Orthodox Christianity. Think of the OCIC as a vast online article repository, with over 700 articles and 6,000 printed pages. This site has been online since 1996 and receives over 36,000 unique visitors per month.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://econcept.dk/icon/dox.html" target="new">Orthodox Church and Its Icons</a></span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxphotos.com/" target="new">Orthodox Photos</a>&nbsp;-&nbsp;<span class="body_text">This photo gallery brings you no less than 1867 pictures of different orthodox sights. They are meant to bring the Holy Orthodox Faith closer to the souls of the people.</span></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxschools.org/" target="new">Orthodox School Association</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodoxwiki.org/Orthodox_Schools" target="new">Orthodox Schools</a>&nbsp;- Links to and information about Orthodox Schools up through college preparatory programs.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodox-search.com/" target="new">Orthodox Search Application</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxwiki.org/Main_Page" target="new">Orthodox Wiki Encyclopedia</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.pravmir.com/index.html" target="new">Orthodoxy and the World</a></span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.phyllisonest.com/" target="new">Resources for Orthodox Christian Educators</a>&nbsp;- Helping teachers enhance their lessons and teaching styles.&nbsp; Publishing two Newsletters with Handouts yearly. Keeping Readers posted of new resources for Orthodox Christian use. Expanding Adult Education Resources .</span></td>
+</tr>
+<tr style="height: 138px;">
+<td style="height: 138px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodoxhistory.org/" target="new">The Society for Orthodox Christian History in the Americas</a>&nbsp;- With the formation of the SOCIETY FOR ORTHODOX CHRISTIAN HISTORY IN THE AMERICAS (SOCHA), the membership desires to begin to shift the approach to studying and writing the history of Orthodoxy in the Americas (and elsewhere, of course, should members desire it) to reflect an earnest engagement with primary sources.&nbsp; There is no jurisdictional agenda attached to SOCHA, and there is no specific ideology or philosophy which members are required to share, excepting only the basic integrity crucial to historical study and the honesty required to have one&rsquo;s premises challenged and revised should the evidence warrant it.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.acrod.org/prayercorner/church-tour" target="new">Tour and Orthodox Christian Church</a>&nbsp;- Watch an interactive tour of the interior of an Orthodox Christian Church.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top">
+<p><span style="font-size: x-large;"><a href="http://www.trinitychildrensfoundation.org/" target="new">Trinity Children's Foundation of America</a>&nbsp;- Over forty years ago, our mission to serve children began. From a small residential program that served six boys in Yucaipa, California, our programs now serve over 1,300 boys and girls in four states and thirty-two locations. And from those six boys the first year, Trinity has now helped in excess of 50,000 children since 1966.</span></p>
+<p><span style="font-size: x-large;"><a href="https://www.snappywords.com/knowledge/vision-for-inclusion-key-steps-to-make-college-accessible-for-visually-impaired-students">Vision for Inclusion: College Accessible for Visually Impaired Students</a> -&nbsp;Accessing higher education shouldn't be hindered by a visual impairment. Yet, for many visually impaired students, the college experience presents a unique set of obstacles...</span></p>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 10px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="16"></a>Information and Resource Sites&nbsp;</span></td>
+</tr>
+<tr style="height: 48px;">
+<td style="height: 48px;" valign="top"><span style="font-size: x-large;"><a href="http://www.aoiusa.org/main/page.php?page_id=1" target="new">American Orthodox Institute</a>&nbsp;-&nbsp;<span style="font-family: Verdana;"><span lang="EN-GB">The American Orthodox Institute is a research and educational organization that engages the cultural issues of the day within the Orthodox Christian moral tradition.</span></span></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.biserica.org/en/index.htm" target="new">Biserica.org</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://aggreen.net/guidelines/guide01.html" target="new">Guidelines for Clergy in the Orthodox Church in America</a></span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxinfo.com/default.aspx" target="new">Orthodox Christian Information Center</a>&nbsp;- Welcome to the OCIC Web site, one of the largest and oldest sites on Orthodox Christianity. Think of the OCIC as a vast online article repository, with over 700 articles and 6,000 printed pages. This site has been online since 1996 and receives over 36,000 unique visitors per month.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxinfo.net/" target="new">Orthodox Sites Portal</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodoxinstitute.org/parish_needs.html" target="new">Parish Life Project Surveys</a></span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://romanianmaa.org/" target="new">Romanian Medical Association of America</a>&nbsp;- Dedicated to bringing together practitioners of Romanian descent and helping the Romanian community in the USA.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodox-christianity.org/orthodoxy/churches/romania/" target="new">Romanian Orthodox Church Links</a></span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="23"></a>Liturgical Resources&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.asna.ca/alaska/" target="new">Alaskan Orthodox Texts</a>&nbsp;- This site is an electronic library of historic Orthodox Christian resources in the indigenous languages of Alaska.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.axionestin.org/index.html" target="new">Axion Estin Foundation</a>&nbsp;- Axion Estin Foundation's mission is to promote the appreciation, education and employment of Byzantine music in North America.</span></td>
+</tr>
+<tr style="height: 95px;">
+<td style="height: 95px;" valign="top"><span style="font-size: x-large;"><a href="http://archive.org/details/CeaslovOrtodox" target="new">Ceaslov</a>&nbsp;-</span>
+<p><span style="font-size: x-large;"><a href="http://archive.org/">The Internet Archive</a>,&nbsp;&nbsp;a 501(c)(3) non-profit, is building a digital library of Internet sites and other cultural artifacts in digital form. Like a paper library, it provides free access to researchers, historians, scholars, and the general public.</span></p>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://aggreen.net/guidelines/guide01.html" target="new">Guidelines for Clergy in the Orthodox Church in America</a></span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ivanmoody.co.uk/orthodoxliturgylinks.htm" target="new">Links Relating to the Liturgy and Music of the Orthodox Church</a>&nbsp;- These pages are a constantly expanding collection of links to sites dealing specifically with the liturgy and music of the Orthodox Church.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.antiochian.org/Liturgics" target="new">Liturgical Calendar &amp; Liturgical Guide (Antiochian Orthodox Christian Archdiocese)</a>&nbsp;- An online liturgical guide is provided for each Sunday on this webpage; it includes variations in the order of service and the variable texts for the day.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.westsrbdio.org/prolog/prolog.htm" target="new">Lives of Saints from the Prologue of Ohrid</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.blog.teologie.net/2010/07/02/slujba-cununiei-text-diortosit-pdf/" target="new">Marriage Service (Slujba Cununiei) - Romanian text</a>&nbsp;- Marriage Service (Romanian text) -<a href="/files/Cununia/Slujba-Cununiei-editiaPP.pdf">&nbsp;CLICK HERE</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://saintjohnwonderworker.org/menologion.htm" target="new">Menologion Program for Daily Bible Readings, Troparia &amp; Kontakia</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.saintjonah.org/services/resources.htm" target="new">On-line Liturgical Resources</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://pages.prodigy.net/frjohnwhiteford/services.htm" target="new">Orthodox Liturgical Texts and Resources</a></span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodoxtwopartmusic.org/" target="new">Orthodox Two Part Liturgical Music</a>&nbsp;- This two part Orthodox music is given as an offering to the Church in America with the hope that it will transcend jurisdictional boundaries. Nevertheless, there are many different kinds of chants from different Orthodox traditions which are to be found on the pages of this website, all of which share a common life and vision in Christ.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxpsalm.org/index.html" target="new">PSALM (Pan Orthodox Society for the Advancement of Liturgical Music)</a>&nbsp;- PSALM is a grass roots organization founded in 1999 by a group of Orthodox musicians from various dioceses and jurisdictions, born out of the desire to bring together those charged with preparing and leading the music of the Church, including choir directors, singers, readers, and clergy, so that they can learn from each other and grow in their ministry by sharing resources and information.</span></td>
+</tr>
+<tr style="height: 72px;">
+<td style="height: 72px;" valign="top"><span style="font-size: x-large;"><a href="http://www.rongolini.com/synaxariontoc.htm" target="new">Synaxarion of the Orthodox Church</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">Alphabetical index of names of saints/feasts with an explanation of their significance.</span></p>
+</td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="15"></a>Ministries&nbsp;</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.copticorphans.org/" target="new">Coptic Orphans</a>&nbsp;- Coptic Orphans is an award-winning&nbsp; international Christian development organization that works with vulnerable children in Egypt to transform their local communities by breaking the cycle of poverty and injustice through literacy, education, advocacy, mentoring, and basic needs.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.goarch.org/multimedia/video/#youth" target="new">Department of Youth and Young Adult Ministries of the Greek Orthodox Archdiocese of America</a>&nbsp;- Multimedia resources for youth and young adults.</span></td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px;" valign="top"><span style="font-size: x-large;"><a href="http://www.focusnorthamerica.org/" target="new">FOCUS North America</a>&nbsp;- Working especially in the areas of Food, Occupation, Clothing, Understanding and Shelter, FOCUS North America expresses Christ&rsquo;s love through social action in North America for those who are hungry, thirsty, strangers, naked, sick or in prison (Matt. 25:35-6).<strong>FOCUS North America will: Serve</strong>&nbsp;those in need, by providing aid through our programs and partners;<strong>Support</strong>&nbsp;Orthodox Christian social action ministries, agencies, professionals, and volunteers; and&nbsp;<strong>Supply</strong>&nbsp;parishes and others with the education, resources and training needed to initiate social action ministries in their own communities.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://abacus.bates.edu/~rallison/friends/index.html" target="new">Friends of Mount Athos</a>&nbsp;- The Society of the Friends of Mount Athos is dedicated to the study and promulgation of knowledge of the history, culture, arts, architecture, natural history, and literature of the Orthodox monasteries of Mount Athos, and to the promotion of the religious and other charitable work of the Holy Community and the monasteries, both those located on Mount Athos, and those elsewhere which are dependent or connected in some way with Mount Athos.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.sharethefaith.net/" target="new">NIKA Orthodox Christian Ministries</a>&nbsp;- Nika Orthodox Christian Ministries is a non-profit Pan-Orthodox Association of Orthodox clergy and laity dedicated to leading people to Orthodoxy, and raising monies to supplement Orthodox clergy who serve very small or needy parishes.&nbsp;</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ocl.org/" target="new">Orthodox Christian Laity</a>&nbsp;- With the guidance of the Holy Spirit, the Mission of the Orthodox Christian Laity is to foster and encourage Orthodox Education and Spiritual Renewal, to facilitate the coming together of all Orthodox Christians in North America, to create a united Orthodox Church, to increase the awareness of Orthodox laypersons of their canonical role in the life of the Church, and to foster greater accountability in the administrative and spiritual life of the church.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.oclife.org/" target="new">Orthodox Christians for Life</a>&nbsp;- Orthodox Christians for Life (OCLife) is a non-profit religious educational Pro-Life organization consisting of members primarily from the Eastern Orthodox Church which is recognized as a fourth major faith in the United States.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.go-ome.org/page1.htm" target="new">Orthodox Marriage Encounter</a>&nbsp;- The Orthodox Marriage Encounter Weekend is a positive and personal experience for a couple, which offers them a technique of loving communication that they can use for the rest of their lives. It&rsquo;s an opportunity for couples to look deeply into their relationship with each other and with God. Also, it is a time to share their feelings, their hopes, fears, joys, and frustrations.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodoxyouthoutreach.net/" target="new">Orthodox Youth Outreach (OYO)</a>&nbsp;- OYO is a ministry of NAC Teen SOYO which has been designed to provide local parishes and youth workers with the resources necessary to involve junior and senior high students in local community service and short-term missions projects.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://outreachalaska.org/" target="new">Outreach Alaska</a>&nbsp;- Our objective is to provide hope to the Orthodox faithful of Alaska through an organized effort of prayer and sharing our God given treasures: financial means, time, talent, energy, experience, and ability.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxdetroit.com/" target="new">St Andrew House - A Pan-Orthodox Institution Dedicated to Orthodox Unity</a></span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxdetroit.com/" target="new">St. Andrew House - Center for Orthodox Christian Studies</a>&nbsp;- The mission of the Center for Orthodox Christian Studies is to promote the Orthodox Christian faith by word and example, through formal instruction, worship and good works.&nbsp; The Center exists to serve the Orthodox clergy and faithful of the metro Detroit area, and to be a symbol of the unity of the faith.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.stbasil.goarch.org/" target="new">St. Basil Academy</a>&nbsp;- Saint Basil Academy is the Greek Orthodox Archdiocese home for children in need. The academy provides a loving Christian environment where resident children are nurtured to adulthood.&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ugandachildrensfund.org/" target="new">St. Nicholas Uganda Children's Fund</a>&nbsp;- Mission: To provide for the education, health and welfare of Ugandan children, teens, and young adults.</span></td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px;" valign="top"><span style="font-size: x-large;"><a href="http://www.syndesmos.org/" target="new">SYNDESMOS - The World Fellowship of Orthodox Youth</a>&nbsp;- Syndesmos was founded in 1953 to encourage contacts among Orthodox youth movements in Western Europe, Greece and the Middle East. Today Syndesmos has grown into a federation of 121 youth movements and theological schools in 43 different countries around the world. At the heart of the Fellowship is the desire of young Orthodox to work together serving the Church, Her unity, witness and renewal. Syndesmos enjoys the encouragement and blessing of all the local canonical Orthodox Churches.&nbsp;</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.farahfoundation.org/" target="new">Virginia H. Farah Foundation</a>&nbsp;- We are a 501(c)(3) non-profit foundation dedicated exclusively to the work of the Orthodox Christian Church. Our goal is to provide funds to non-profit organizations to help them carry out unique and innovative projects that support the work of the Church.&nbsp;</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxwomensnetwork.org/" target="new">Women's Othodox Ministries and Education Network (WOMEN)</a>&nbsp;- WOMEN is dedicated to cultivating the Gifts of the Holy Spirit in Orthodox Christian women, for building up communities, relationships, and personal spiritual growth. WOMEN's mission is to encourage Orthodox women's loving service to Christ in the Church and in community and ecumenical settings.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.zoeforlifeonline.org/" target="new">ZOE for Life</a>&nbsp;- ZOE is a non-profit Christ-centered support organization with three major goals: to help women in crisis pregnancy, to assist Orthodox Christian couples seeking to adopt, and to create an Orthodox Christian abstinence program to educate young people.</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="4"></a>Monasteries&nbsp;</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodox-monasteries.com/" target="new">Orthodox Monasteries - the Worldwide Directory</a>&nbsp;- This directory intends to reveal itself as a communion place for the Christian Orthodox people from everywhere and offer guidance in finding the Holy Orthodox Monasteries around the world.</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="10"></a>Multimedia Programs (Audio &amp; Video)&nbsp;</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://ancientfaith.com/" target="new">Ancient Faith Radio</a>&nbsp;- Ancient Faith Radio seeks to deepen and enrich the faith of Orthodox Christians around the world with streaming audio programming and on-demand podcasts. We feature liturgical music from a variety of Orthodox traditions, as well as prayers, readings, lectures, and interviews.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.goarch.org/multimedia/video/#youth" target="new">Department of Youth and Young Adult Ministries of the Greek Orthodox Archdiocese of America</a></span></td>
+</tr>
+<tr style="height: 164px;">
+<td style="height: 164px;" valign="top"><span style="font-size: x-large;"><a href="http://doorradio.org/" target="new">Detroit's Own Orthodox Radio (DOOR)</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">Detroit's Own Orthodox Radio (DOOR) promotes the Orthodox Christian Faith, connects&nbsp;communities and faithful, educates on traditional and modern day issues, and entertains the&nbsp;listening public across the metropolitan Detroit region. It is produced thanks to a committee of&nbsp;volunteers working under the auspices of The Council of Orthodox Christian Churches of Metropolitan Detroit, including advising and contributions from the St. John Chrysostom Clergy&nbsp;Brotherhood. Shows air every Sunday 5:00&ndash;6:00pm on 690AM (WNZK Radio). Each program is&nbsp;also live-streamed world-wide and available via podcast on DOORradio.org.</span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="https://www.youtube.com/user/GreekOrthodoxTV" target="new">Greek Orthodox Christian Television</a>&nbsp;- Greek Orthodox Christian Television is an internet ministry of the Holy Metropolis of the Genuine Greek Orthodox Church of America.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="https://www.youtube.com/watch?v=0Jf6JVYK4uQ&amp;feature=related" target="new">Introduction to Orthodox Christianity</a>&nbsp;- Based on the book, The Orthodox Church - The New Edition 1997, by Metropolitan Kallistos (Timothy) Ware.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="https://www.youtube.com/view_play_list?p=1A8E785BDE9A776D" target="new">Ligonier 1994 Orthodox Bishops Conference</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.myocn.net/" target="new">Orthodox Christian Network</a></span></td>
+</tr>
+<tr style="height: 118px;">
+<td style="height: 118px;" valign="top"><span style="font-size: x-large;"><a href="http://otelders.org/about-us/" target="new">Orthodox Teaching of the Elders</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">We strive to bring out the words of contemporary Orthodox Elders to the English-speaking community, although the website is available in multiple languages. Our collaborators work hard to add their contribution to this spiritual framework in terms of translating multimedia materials and we all strive to constantly improve the translation quality and the structure of the information.</span></p>
+</td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodox.tv/" target="new">Orthodox.tv</a>&nbsp;- Orthodox.TV provides many different channels of quality programming, ranging from Archdiocesan Convention broadcasts, addresses by the hierarchy, news, quality radio broadcasts, international and jurisdictional channels, interactive discussion groups, college classes, catechumenical instruction, and much more.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ourlifeinchrist.com/" target="new">Our Life in Christ</a>&nbsp;- Join program hosts Steven Robinson and Bill Gould for an hour of insightful discussion about Orthodox Christian faith and practice.&nbsp;</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="https://www.youtube.com/watch?v=DAli5Lv6pd8" target="new">This Is Your Church - The Romanian Orthodox Episcopate of America</a>&nbsp;- A documentary film on the life and work of the Romanian Orthodox Episcopate of America.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.acrod.org/prayercorner/church-tour" target="new">Tour of an Orthodox Christian Church</a>&nbsp;- Watch an interactive tour of the interior of an Orthodox Christian Church.</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="19"></a>News &amp; Blogs&nbsp;</span></td>
+</tr>
+<tr style="height: 48px;">
+<td style="height: 48px;" valign="top"><span style="font-size: x-large;"><a href="http://www.aoiusa.org/" target="new">American Orthodox Institute</a>&nbsp;-&nbsp;<span style="font-family: Verdana;"><span lang="EN-GB">The American Orthodox Institute is a research and educational organization that engages the cultural issues of the day within the Orthodox Christian moral tradition.</span></span></span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.directionstoorthodoxy.org/" target="new">Directions to Orthodoxy</a>&nbsp;-&nbsp;The &nbsp;purpose of Directions to Orthodoxy&nbsp;is to&nbsp;provide&nbsp;thoughtful&nbsp;coverage of the life and&nbsp;work of&nbsp;Orthodox Christianity&nbsp;in the&nbsp;third&nbsp;millenium of&nbsp;Christianity.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.interfax-religion.com/" target="new">Interfax-Religion</a>&nbsp;- Religion news from Russia.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxnews.org/" target="new">Orthodox Christian News Service</a>&nbsp;- Includes US and World&nbsp;news&nbsp;items, features, editorials, letters, and announcements.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxytoday.org/index.shtml" target="new">OrthodoxyToday.org</a>&nbsp;- Commentary on social and moral issues of the day.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.theoniondome.com/" target="new">The Onion Dome</a>&nbsp;- Orthodox news with a twist.</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="14"></a>Online Journals&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxcanada.org/" target="new">Canadian Journal of Orthodox Christian Thought and Theology</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.cjoc.ca/" target="new">Journal of Canadian Orthodox Christianity</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.theandros.com/hcanon.html" target="new">THEANDROS</a>&nbsp;- An Online Journal of Orthodox Christian Theology and Philosophy</span></td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px;" valign="top"><span style="font-size: x-large;"><a href="http://www.touchstonemag.com/" target="new">Touchstone - A Journal of Mere Christianity</a>&nbsp;- The Fellowship of St. James (FSJ) was incorporated in the early 1970's to uphold biblical, orthodox Christianity. It has three goals: (1) to promote and defend classical Christian doctrine, (2) to encourage the life in Christ, (3) and to foster a united witness to biblical Christian truth to a secular society. FSJ is not a church or a membership association, but a Christian non-profit corporation that publishes periodicals and holds conferences and lectures. It seeks to provide a place where Christians of various backgrounds can speak with one another and witness together to the truth of historic Christianity.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="12"></a>Online Stores&nbsp;</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.alexanderpress.com/" target="new">Alexander Press</a>&nbsp;- Alexander Press publishes and distributes &mdash; in English, French, and Greek &mdash; its own titles and those from many exceptional Greek publishing houses.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.evagelidisilias.gr/root.en.aspx" target="new">All That Needs Orthodoxy</a>&nbsp;- Ecclesiastical products for church and home produced in Greece.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.archangelsbooks.com/default.asp" target="new">Archangels Books</a>&nbsp;- ArchangelsBooks.com is a complete Orthodox supplier where you can usually find what you're looking for from a large variety of sources with all the convenience of internet shopping and service in one convenient place.</span></td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px;" valign="top"><span style="font-size: x-large;"><a href="http://www.conciliarpress.com/" target="new">Conciliar Press</a>&nbsp;- Conciliar Press was born 30 years ago as the publisher of AGAIN magazine. Today, Conciliar Media Ministries, Inc., is a department of the Antiochian Orthodox Christian Church of North America that includes a print publishing arm (Conciliar Press) and a new media arm (Ancient Faith Radio). Conciliar Press produces two quarterly magazines including The Handmaiden and AGAIN, dozens of books by the best writers in American Orthodoxy as well as icons, cards, and more. Through a partnership with the LXX Project and Thomas Nelson, Conciliar Press been the primary distributor of the Orthodox Study Bible.</span></td>
+</tr>
+<tr style="height: 138px;">
+<td style="height: 138px;" valign="top"><span style="font-size: x-large;"><a href="http://www.hchc.edu/holycross/about/administrative_offices/holy_cross_orthodox_press.html" target="new">Holy Cross Orthodox Press &amp; Bookstore</a>&nbsp;- Holy Cross Orthodox Press engages in a ministry of publishing books, monographs and other literary works for general and academic audiences. Holy Cross Orthodox Press publishes works on topics of Orthodox theology, history, practice, spirituality and life. It also publishes bilingual liturgical books for the Greek Orthodox Archdiocese of America. The Press publishes The Greek Orthodox Theological Review for the Faculty of Holy Cross Greek Orthodox School of Theology. The earliest publications of the Press date back nearly to the founding of Holy Cross in 1937. From its modest beginnings, the Press has grown into a significant publisher of over 500 books chiefly in the disciplines of Orthodox spirituality, theology, patristics, liturgics, history, and culture.&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.light-n-life.com/" target="new">Light &amp; Life Publishing</a>&nbsp;- The world's largest Orthodox supplier.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxlogos.com/" target="new">Logos - The Orthodox Bookstore</a>&nbsp;- Orthodox Logos Foundation&nbsp;is an&nbsp;online non-commercial bookstore having as its mission to provide a full spectrum of Orthodox Christian materials in four languages, namely in English, French, Dutch and Russian. The bookstore began its operations in 2005.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.logoscreations.com/" target="new">Logos Creations</a>&nbsp;- An online store specializing in solid 14K gold neck crosses and pendants for baptisms, gifts, and other occasions.&nbsp; A&nbsp;growing selection for Orthodox Christians of various traditions.</span></td>
+</tr>
+<tr style="height: 118px;">
+<td style="height: 118px;" valign="top"><span style="font-size: x-large;"><a href="http://www.monastery-candles.com/" target="new">Monastery Candles</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">IS DEDICATED TO SERVICING CHURCHES IN NORTH AMERICA WITH PURE BEESWAX CANDLES FOR MANY YEARS.&nbsp;High Quality &ndash; Low Prices /&nbsp;Great Customer Service /&nbsp;FREE Shipping throughout North America /&nbsp;100% Beeswax /&nbsp;100% Cotton wicks /&nbsp;Pay when you sell the candles.</span></p>
+</td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.nioras.com/" target="new">NIORAS - Byzantine Orthodox Art and Greek Traditional Products</a>&nbsp;- Panagiotis Nioras is a Greek manufacturing and distributing company, with over three generations of experience and an international approach to producing and selling Greek Orthodox Articles and Folk Art.&nbsp; Our aim is to promote our Greek Orthodox Tradition as well the Greek Culture through the handmade products we supply.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.stjrussianorthodox.com/bookssupplies.htm" target="new">Orthodox Books &amp; Supplies</a>&nbsp;- Eastern &amp; Western Orthodox Christian Books &amp; supplies; Orthodox Icons, Orthodox Church suppliers, Orthodox crosses, Orthodox online stores, Byzantine crosses, Russian Orthodox stores, Eastern Orthodox &amp; Byzantine vestments and suppliers.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ocrb.org/" target="new">Orthodox Christian Recorded Books</a>&nbsp;- OCRB is dedicated to providing audio versions of Orthodox Christian books, lectures, and liturgical materials. The studio voices you hear are the voices of those who love the material, not of dramatic actors. The readings are clear, engaging, and salvific.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxmarketplace.com/" target="new">Orthodox Marketplace</a>&nbsp;- The Orthodox Marketplace is made possible through an initiative organized and administered by the Department of Internet Ministries at the Greek Orthodox Archdiocese of America.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.paschaonline.com/" target="new">Pascha Books and Gifts</a>&nbsp;- Pascha Books &amp; Gifts first opened its doors in November 1997 in response to the realization that Orthodox Christianity needed a greater presence in our society.&nbsp; Its founder, Richard J. Shebib, focuses not just on appealing to Orthodox Christians.&nbsp; This store is for people of all religious traditions to come and learn about the Eastern Christian Tradition and have the ability to purchase icons, jewelry, religious supplies, books and gifts from around the world.</span></td>
+</tr>
+<tr style="height: 72px;">
+<td style="height: 72px;" valign="top"><span style="font-size: x-large;"><a href="http://www.roea.org/bookstore1.html" target="new">Romanian Orthodox Episcopate of America Bookstore</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">This bookstore mainly offers publications produced by the Romanian Orthodox Episcopate of America, which include bilingual liturgical books.</span></p>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.skete.com/" target="new">Skete.com</a>&nbsp;- The Internet home of Orthodox Byzantine Icons and St. Isaac of Syria Skete.&nbsp;</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://stspress.com/" target="new">St. Tikhon's Seminary Press &amp; Bookstore</a>&nbsp;- St. Tikhon&rsquo;s Bookstore has a display area of approximately 7000 sq. feet. We offer a full line of custom made items including vestments, icons, church furnishings and bells at competitive prices. The Bookstore is operated for the benefit of the Seminary and Monastery. It offers its services to students, priests, parishes and visitors.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.svspress.com/" target="new">St. Vladimir's Seminary Press &amp; Bookstore</a>&nbsp;- Founded in 1968, St Vladimir's Seminary Press is the largest and most active publisher of Orthodox Christian books in the English language, with almost 300 titles in print. SVS Press has achieved a reputation for permitting a free expression of ideas within the breadth of the Orthodox faith, tradition, and history, while insisting on works of theological excellence.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="25"></a>Other Resources &amp; Institutions&nbsp;</span></td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxattorneys.org/" target="new">Association of Orthodox Christian Attorneys</a>&nbsp;- In 1961, the Standing Conference of the Canonical Orthodox Bishops in the Americas (SCOBA) wrote a Constitution that envisioned a committee of Orthodox attorneys and legislators "to keep the hierarchs informed of legislation, juridical or executive action of interest, or of importance to the Church, and to render advice and assistance in the event of need."&nbsp; In the spirit of SCOBA's vision, we have created the Association of Orthodox Christian Attorneys (AOCA).&nbsp; Our pan-Orthodox group is open to attorneys from all of the world's Orthodox Christian Churches.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.christianchurchestogether.org/" target="new">Christian Churches Together in the USA</a>&nbsp;- Christian Churches Together in the USA (CCT) is a new forum growing out of a deeply felt need to broaden and expand fellowship, unity, and witness among the diverse expressions of Christian faith today. CCT is inclusive of the diversity of Christian families in the United States &mdash; Evangelical, Orthodox, Roman Catholic, Pentecostals, historic Protestant, Racial and Ethnic churches.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.romanianamericans.org/" target="new">Congress of Romanian Americans</a>&nbsp;- The Congress Of Romanian Americans is an organization dedicated to promoting the interests of the Romanian community in the Nation's Capital and to further the cooperation between the governments of the United States of America and Romania.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ncccusa.org/" target="new">National Council of Churches USA</a>&nbsp;- Since its founding in 1950, the National Council of the Churches of Christ in the USA has been the leading force for ecumenical cooperation among Christians in the United States. The NCC's member faith groups &mdash; from a wide spectrum of Protestant, Anglican, Orthodox, Evangelical, historic African American and Living Peace churches &mdash; include 45 million persons in more than 100,000 local congregations in communities across the nation.</span></td>
+</tr>
+<tr style="height: 95px;">
+<td style="height: 95px;" valign="top"><span style="font-size: x-large;"><a href="http://www.onlinecourses.com/" target="new">Online Courses</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">A&nbsp;free and comprehensive resource that is a collection of open college course that spans videos, audio lectures, and notes given by professors at Harvard, Princeton and MIT.</span></p>
+</td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.centreorthodoxe.org/" target="new">Orthodox Centre of the Ecumenical Patriarchate, Chamb&eacute;sy, Geneva</a>&nbsp;- The Institute of Postgraduate Studies of Orthodox Theology was founded as an independent academic institute in the Orthodox Centre of the Ecumenical Patriarchate, and, since the academic year 1997-1998, it cooperates with the Roman-Catholic Theological School of the University of Freiburg and the Protestant Theological School of the University of Geneva.</span></td>
+</tr>
+<tr style="height: 118px;">
+<td style="height: 118px;" valign="top"><span style="font-size: x-large;"><a href="http://panorthodoxunited.org/" target="new">Pan Orthodox United</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">Pan Orthodox United was established for the purpose of Orthodox cultural exchange. By bringing people together, we hope to solidify our traditions and create opportunities to share our heritage with one another. This is done by encouraging young adults to gather and participate in social and sporting events throughout the year.</span></p>
+</td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodoxhistory.org/" target="new">The Society of Orthodox Christian History in the Americas</a>&nbsp;- With the formation of the&nbsp;Society of Orthodox Christian History in the Americas&nbsp;(SOCHA), the membership desires to begin to shift the approach to studying and writing the history of Orthodoxy in the Americas (and elsewhere, of course, should members desire it) to reflect an earnest engagement with primary sources.&nbsp; There is no jurisdictional agenda attached to SOCHA, and there is no specific ideology or philosophy which members are required to share, excepting only the basic integrity crucial to historical study and the honesty required to have one&rsquo;s premises challenged and revised should the evidence warrant it.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><a href="https://raheritage.org"><span style="font-size: x-large;">Valerian D. Trifa Romanian American Heritage Center</span></a></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.oikoumene.org/" target="new">World Council of Churches</a>&nbsp;- The World Council of Churches (WCC) is the broadest and most inclusive among the many organized expressions of the modern ecumenical movement, a movement whose goal is Christian unity.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="24"></a>Parishes in North America&nbsp;</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodoxyinamerica.org/" target="new">Orthodoxy in America - An Online Directory of the Orthodox Church in North America</a>&nbsp;- The Orthodoxy in America project is an online directory of the parishes, monasteries, and seminaries of the twelve major Orthodox jurisdictions in the United States, Canada, and Mexico. It is offered as a free service of Orthodox Web Solutions.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="8"></a>Retreat Centers&nbsp;</span></td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px;" valign="top"><span style="font-size: x-large;"><a href="http://www.antiochianvillage.org/" target="new">Antiochian Village Camp and Retreat Center</a>&nbsp;- Antiochian Village offers a place to meet, retreat, celebrate, and learn. The Conference and Retreat Center is an ideal setting for any group gathering including meetings, retreats, reunions, weddings, banquets, and more! One hundred hotel-style lodging rooms, top-notch food service, and outstanding hospitality make our facility one of the best in our region. Antiochian Village Camp, open to groups during the school year, offers group lodging and outdoor activities. During the summer months, the facility is dedicated to a nationally renowned summer camping program.</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.diakoniaretreatcenter.org/Diakonia_Center/Welcome.html" target="new">Diakonia Retreat Center - Salem, South Carolina</a>&nbsp;- The Diakonia Retreat Center is an ideal setting for many different types of programming. We are currently equipped and staffed to provide retreat or conference opportunities for groups ranging in size for 10-150. Groups of 150 (including cabin counselors) can be accommodated with ease.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://lasvegasorthodox.com/RetreatCenter/" target="new">Life-Giving Spring Retreat Center - Boulder City, Nevada</a>&nbsp;- The Diocese of the West's Retreat Center: A Place of Christian Renewal and Witness in the Mojave Desert.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://standrewscamp.com/" target="new">St. Andrew's Camp and Retreat Center</a>&nbsp;- Saint Andrew's Camp was founded in 1954 by a small group of Orthodox Christians who felt it necessary to have Pan Orthodox educational centers for youth. Since it's first session in 1957, Saint Andrew's Camp has served well over 2,000 campers &amp; teens. The camp is owned &amp; operated by The Orthodox Charitable and Educational Foundation (OCEF), a not-for-profit organization incorporated in New York. The facilities can also be used for retreats and other special events, and are available off season.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.stnicholasranch.org/" target="new">St. Nicholas Ranch &amp; Retreat Center - Dunlap, California</a>&nbsp;- St. Nicholas Ranch and Retreat Center is a ministry of the Greek Orthodox Diocese of San Francisco.&nbsp; Our primary mission is to serve the needs of Orthodox Christians by hosting camps, retreats and seminars promoting Orthodox religious education and spiritual formation.&nbsp; In addition, we also open our facilities to host a broad range of other programs, conferences and retreats for worthwhile non-Orthodox organizations.</span></td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px;" valign="top"><span style="font-size: x-large;"><a href="http://members.iinet.net.au/~mmjournl/MaryMartha/RESOURCES%20AND%20INFORMATION/St%20Silouan%20Retreat.html" target="new">St. Silouan Retreat - Wadmalaw Island, South Carolina</a>&nbsp;- The Retreat is located on 70 acres of wooded property bordering a tidal river. It is a place of rare calm and beauty, where one or two individuals or married couples can spend several days of rest, prayer and to the extent desired, conversation with others present. Times of silence and relative solitude are punctuated by the daily offices of matins, vespers and compline. Occasionally, small groups of priests and lay persons gather for a few days of shared reflection on various theological and pastoral themes. The main purpose of the Retreat is to serve the needs of our clergy and others for periods of prayer and spiritual renewal.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="20"></a>Romanian Language Resources&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://apostolatintarafagarasului.blogspot.com/" target="new">Apostolat &icirc;n Ţara Făgăraşului</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.bibliaortodoxa.ro/" target="new">Biblia Ortodoxă</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://biserica.org/ro/index.htm" target="new">Biserica.org</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.nistea.com/" target="new">Calea Ortodoxă - Spiritualitatea şi Literatură</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.calendar-ortodox.ro/" target="new">CALENDAR ORTODOX --- SFINTII ZILEI</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.cartiortodoxe.ro/index.php" target="new">CartiOrtodoxe.ro</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.catehetica.ro/" target="new">Catehetica.ro - Portal Crestin Ortodox</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.credo.ro/" target="new">Credo.ro - Portal Creştin Ortodox</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.crestinism-ortodox.com/" target="new">Crestinism Ortodox</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://tainacasatoriei.wordpress.com/" target="new">Despre Taina Căsătoriei</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://doarortodox.ro/" target="new">Doar Ortodox</a></span></td>
+</tr>
+<tr style="height: 95px;">
+<td style="height: 95px;" valign="top"><span style="font-size: x-large;"><a href="http://ebooks.edituradoxologia.ro/" target="new">Editura Doxologia</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">&Icirc;n librăria noastră veţi găsi o ofertă generoasă de cărţi digitale pe care o vom &icirc;mbogăţi continuu, lucrări publicate la editura noastră, din domeniile teologie şi spiritualitate, credinţă ortodoxă, istorie bisericească, poezie&nbsp;și proză&nbsp;creștină, literatură&nbsp;patristică&nbsp;şi filocalică.</span></p>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.femeiaortodoxa.ro/" target="new">Femeia Ortodoxă</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.prapuri.com/links.html" target="new">Links Ortodox</a>&nbsp;-&nbsp;<span class="Apple-style-span">Pagina de link-uri&nbsp;Ortodoxe.</span></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ortodoxmedia.com/" target="new">Ortodox Media</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ortodoxradio.ro/" target="new">Ortodox Radio</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://copilortodox.wordpress.com/" target="new">Ortodoxia Pentru Copii</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.crez.ro/" target="new">Portal Ortodox Online - crez.ro</a>&nbsp;- Fr&acirc;nturi de spiritualitate creştin ortodoxă</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://noul.reintregirea.ro/reintregirea/reintregirea.html" target="new">Radio Reintregirea</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.radiotrinitas.ro/" target="new">Radio Trinitas</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.resurse-ortodoxe.ro/" target="new">Resurse Ortodoxe</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://members.tripod.com/ortodox/" target="new">Resurse Ortodoxe Rom&acirc;neşti</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://traditional-ortodox.site88.net/" target="new">Traditional Ortodox</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="26"></a>Solia Calendar Advertisers&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.century21hilltop.com/" target="new">777 California Real Estate Connections</a></span></td>
+</tr>
+<tr style="height: 72px;">
+<td style="height: 72px;" valign="top"><span style="font-size: x-large;"><a href="http://www.beachfrontonline.com/frame_set.asp?frame=agents" target="new">Beachfront Realty, Inc. - Danijela Handaric (Aventura, FL)</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">Danijela Handaric, Realtor, 18205 Biscayne Blvd Ste 2205, Aventura FL 33160 - (954) 290-4321 /&nbsp;<a href="mailto:danijelagrosin@hotmail.com">danijelagrosin@hotmail.com</a>.</span></p>
+</td>
+</tr>
+<tr style="height: 95px;">
+<td style="height: 95px;" valign="top"><span style="font-size: x-large;"><a href="http://www.berkshirehathawayhs.com/margie-raica-real-estate-agent" target="new">Berkshire Hathaway Home Services - Arizona Properties</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">Specializing in the purchase of licensed assisted living homes or the conversion of residential homes into assisted living homes. Contact:&nbsp;<strong>Margie Raica:</strong>&nbsp;(602) 284-7171 or&nbsp;<a href="mailto:margie.raica@yahoo.com">margie.raica@yahoo.com</a>.</span></p>
+</td>
+</tr>
+<tr style="height: 95px;">
+<td style="height: 95px;" valign="top"><span style="font-size: x-large;"><a href="http://www.amazon.com/Finding-Family-Romania-father---laws/dp/1495447448/ref=sr_1_1?ie=UTF8&amp;qid=1430748473&amp;sr=8-1&amp;keywords=finding+family+in+romania" target="new">Finding Family in Romania 2013</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">This is the tale of our month-long adventure in Romania searching for family and exploring the country of my father-in-law's childhood. Contact: (231) 388-5749 or&nbsp;<a href="mailto:rtolgo@yahoo.com">rtolgo@yahoo.com</a>.</span></p>
+</td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://orthodoxgoods.com/" target="new">Gloria Incense</a>&nbsp;- Official On-line Store of the American Carpatho-Russian Orthodox Diocese of the USA. At Orthodox Goods, you may purchase items, books and gifts from Christ the Saviour Seminary Bookstore, Gloria Incense and the Liturgical Publications Department of the Diocesan Chancery.&nbsp;</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.hora-mn.org/" target="new">Heritage Organization of Romanian Americans in Minnesota</a>&nbsp;-&nbsp;HORA&nbsp;is a non-profit organization intended to enrich the state&rsquo;s diverse image through sharing the unique and valuable cultural heritage of the Romanian American community, along with its extensive history in the state.&nbsp;Our mission&nbsp;is to preserve, promote and share the cultural heritage, history and values of the Romanian American community in the Twin Cities and the State of Minnesota.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.iocc.org/" target="new">International Orthodox Christian Charities (IOCC)</a>&nbsp;-&nbsp;<span class="Apple-style-span"><span class="homemissiontext">IOCC, in the spirit of Christ&rsquo;s love, offers emergency relief and development programs to those in need worldwide, without discrimination, and strengthens the capacity of the Orthodox Church to so respond.</span></span></span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://jacksonmonumentworks.com/" target="new">Jackson Monument Works</a>&nbsp;- Jackson Monument Works was started in 1910 by Elmer C. St.John and was called Jackson Granite Co. Jackson Monument Works is now owned and operated by Elmer's great-grandson, Chris St. John. The granite stones are shipped already cut and polished to shape, Jackson Monument Works adds design and the lettering to the customer's specification.</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.meaningfulfunerals.net/fh/home/home.cfm?fh_id=12070" target="new">John N. Santeiu &amp; Son Funeral Directors</a>&nbsp;-&nbsp;<span class="content">A full service funeral home, we adapt our services to fit the needs of those who honor us with their confidence at their time of need.</span></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.lalame.com/" target="new">La Lame Inc - Church Fabrics</a>&nbsp;- Specialty fabric and yarn manufacturers.</span></td>
+</tr>
+<tr style="height: 95px;">
+<td style="height: 95px;" valign="top"><span style="font-size: x-large;"><a href="http://www.landstar-agent.com/" target="new">Landstar Cargo Transportation Services</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">Cargo transportation to Romania, Republic of Moldava and many other destinations. Contact Tony Samoila at 239-599-4033 or&nbsp;<a href="mailto:tsamoila@landstar-agent.com">tsamoila@landstar-agent.com</a>.</span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://lynchfuneraldirectors.com/" target="new">Lynch &amp; Sons Funeral Directors</a>&nbsp;- Lynch &amp; Sons Funeral Directors provide a full range of mortuary services, facilities and merchandise and are ready to serve around the clock and around the calendar.&nbsp;</span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.meridianul.com/" target="new">Meridianul Rom&acirc;nesc</a>&nbsp;- A Romanian-American newspaper published weekly in the Romanian language. It has no political or religious affiliation, but aims to be the voice of the Romanian-American community.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://oramaworld.com/" target="new">Orama World</a>&nbsp;- The Orthodox Christian on-line shopping mall of products inspired from Byzantium and Orthodox Christianity.&nbsp;</span></td>
+</tr>
+<tr style="height: 69px;">
+<td style="height: 69px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxchurchsupplies.com/" target="new">Orthodox Church Supplies of America</a>&nbsp;- We supply everything you need for the church: Icons, Vigil Lamps, Censers, Tabenacles, Candelabrums, Wood Craved Iconostasis, Icon Stands and More. Also we supply everything you need for your home: Icons, Vigil Lamps, Home Censers, Charcoal, Incense, Prayer Ropes, and much, much more.</span></td>
+</tr>
+<tr style="height: 92px;">
+<td style="height: 92px;" valign="top"><span style="font-size: x-large;"><a href="http://www.projectmexico.org/" target="new">Project Mexico &amp; St. Innocent Orphanage</a>&nbsp;-&nbsp;<span class="Apple-style-span">Since 1988, Project Mexico has been involving young people in the alleviation of suffering by building homes for Mexico's poor. Hundreds of homes have been built for needy families with the help of nearly 10,000 volunteers. In 1996 our outreach expanded through the opening of St. Innocent Orthodox Orphanage in Tijuana which provides a home for teenage boys who live on the streets or who have been put out of other orphanages.</span></span></td>
+</tr>
+<tr style="height: 72px;">
+<td style="height: 72px;" valign="top"><span style="font-size: x-large;"><a href="http://www.romanianimportexport.com/" target="new">Romanian American Import Export Inc</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">Transportation of packages, furniture, construction materials, containers, etc. from the USA to Romania. Call: 773-465-8695.</span></p>
+</td>
+</tr>
+<tr style="height: 72px;">
+<td style="height: 72px;" valign="top"><span style="font-size: x-large;"><a href="http://romaniangenealogy.com/" target="new">Romanian Genealogy Society</a>&nbsp;-</span>
+<p><span style="font-size: x-large;">Linking the past, present and future by exchanging knowledge and expertise about Romanian family history research.</span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="height: 46px;" valign="top"><span style="font-size: x-large;"><a href="http://www.romaniantribune.net/" target="new">Romanian Tribune</a>&nbsp;- Unicul ziar rom&acirc;no-american tipărit integral pe h&acirc;rtie cerată! Grafică şi paginaţie atractivă. Ziarul rom&acirc;nesc cu cel mai mare tiraj din SUA - distribuit gratuit in 28 de state!</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.ro-am.net/" target="new">Romanian-American Yellow Pages</a>&nbsp;- Clearly and indisputably the best community guide and networking tool.</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" align="right">&nbsp;</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;"><hr /></td>
+</tr>
+<tr style="height: 23px;">
+<td class="PARAGRAPH_TITLE" style="height: 23px;"><span style="font-size: x-large;"><a name="5"></a>Theological Schools, Seminaries and Graduate Institutions&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.acrod.org/seminary.html" target="new">Christ the Saviour Seminary, Johnstown PA</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.hchc.edu/" target="new">Holy Cross Greek Orthodox School of Theology, Brookline, MA</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.saint-serge.net/" target="new">Institute of Orthodox Theology in Paris &laquo;Saint Serge&raquo;</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.institutorthodoxe.org/" target="new">Institute of Postgraduate Studies in Orthodox Theology, Chamb&eacute;sy, Geneva</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.oac.gr/" target="new">Orthodox Academy of Crete</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.orthodoxinstitute.org/" target="new">Patriarch Athenagoras Orthodox Institute of Graduate Theological Union, Berkeley, CA</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.saaot.edu/index.php" target="new">Saint Athanasius Academy of Orthodox Theology, Elk Grove, CA</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.sthermanseminary.org/" target="new">St. Herman's Theological Seminary, Kodiak, AK</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.stots.edu/" target="new">St. Tikhon's Orthodox Theological Seminary, South Canaan, PA</a></span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;" valign="top"><span style="font-size: x-large;"><a href="http://www.svots.edu/" target="new">St. Vladimir's Orthodox Theological Seminary, Crestwood, NY</a></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+
+<div style="clear:both;"></div>
+
+
+
+</div></div></div>
+
+</div></div><div style="width:100%; margin-top:10px; text-align: right;"><div class="PARAGRAPH_TEXT"><b>Share This:</b></div><div class="social-likes  social-likes_notext  social-likes_dark " data-zeroes="yes" >
+<div class="facebook" title="Share link on Facebook">&nbsp;</div>
+<div class="twitter" title="Share link on Twitter">&nbsp;</div>
+</div></div><br style="clear:both;">
+</div><div class="PARAGRAPH_TEXT"><div class="col col-12" style="text-align: center;"><nav class="mb3 row" style="padding-left: 210px;"></nav><nav class="mb3 row" style="padding-left: 210px;"></nav><nav class="mb3 row" style="padding-left: 210px;"></nav><nav></nav><nav></nav><nav><span class="PARAGRAPH_TITLE" style="font-size: medium;"><a href="https://roea.org/"><img src="https://roea.org/display_image.php?ximgid=&amp;ext=png&amp;relativeimage=images/Site-Photos/Roea-logo-with-white.png&amp;archive=0&amp;final_h=150&amp;final_w=132.68602540835&amp;percent=0" alt="" width="132" height="150" /></a>&nbsp; &nbsp; &nbsp;<a href="https://www.oca.org/"><img src="https://roea.org/display_image.php?ximgid=&amp;ext=png&amp;relativeimage=images/Site-Photos/Logo-OCA-no-background.png&amp;archive=0&amp;final_h=150&amp;final_w=60.981308411215&amp;percent=0" alt="" width="60" height="150" /></a>&nbsp; &nbsp; &nbsp;<a href="http://www.assemblyofbishops.org/"><img src="https://roea.org/display_image.php?ximgid=&amp;ext=png&amp;relativeimage=images/Site-Photos/assembly-of-bishops-logo-no-back.png&amp;archive=0&amp;final_h=150&amp;final_w=150&amp;percent=0" alt="" width="150" height="150" /></a>&nbsp; &nbsp; &nbsp;<a href="https://www.ancientfaith.com/"><img src="https://roea.org/display_image.php?ximgid=&amp;ext=png&amp;relativeimage=images/Site-Photos/ancient-faith-ministries.png&amp;archive=0&amp;final_h=360&amp;final_w=360&amp;percent=0" alt="" width="150" height="150" /></a>&nbsp; &nbsp; &nbsp;<a href="https://www.crestinortodox.ro/"><img src="https://roea.org/display_image.php?ximgid=&amp;ext=png&amp;relativeimage=images/Site-Photos/crestin-ortodox-1.png&amp;archive=0&amp;final_h=360&amp;final_w=360&amp;percent=0" alt="" width="150" height="150" /></a><br /><br /></span></nav><nav></nav><nav><span class="PARAGRAPH_TITLE" style="font-size: medium;"><a href="https://roea.org/administration">Administration</a> | <a href="https://roea.org/directories">Directories</a>&nbsp;| <a href="https://roea.org/aboutroea">About ROEA</a> | <a href="https://roea.org/communications">Communications</a>&nbsp;| <a href="https://roea.org/resources1">Resources</a>&nbsp;|&nbsp;<a href="https://roea.org/about_orthodoxy">About Orthodoxy</a> | <a href="https://roea.org/recommendedlinks">Recommended&nbsp;Links</a>&nbsp; |&nbsp;<a href="https://roea.org/chanceryoffice">Contact</a>&nbsp;| <a href="https://roea.org/makeadonation">Make a&nbsp;Donation</a></span></nav><nav></nav><nav><span class="PARAGRAPH_TITLE" style="font-size: medium;">2535 Grey Tower Road, Jackson MI 49201-9120&nbsp;|&nbsp;Tel:&nbsp;<span id="gc-number-0" title="Call with Google Voice"><span id="gc-number-0" class="gc-cs-link" title="Call with Google Voice">(517) 522-4800</span></span>&nbsp;|&nbsp;Fax:&nbsp;<span id="gc-number-1" title="Call with Google Voice"><span id="gc-number-1" class="gc-cs-link" title="Call with Google Voice">(517) 522-5907</span></span>&nbsp;|&nbsp;&copy; Copyright 2020 by The Romanian Orthodox Episcopate of America</span></nav></div></div>
+
+
+
+
+
+<!------- FOOTER ------->
+
+
+
+
+
+
+
+
+
+<div id="T19_panel_content_c" class=""><div id="T19_panel_content_image"><div id="T19_panel_content" class="pl-2 pr-2">
+<div id="T19_footer_links_c">
+	<div id="T19_footer_pbows" class="CAPTION_TEXT pl-2 pt-3">Powered by <a href="http://orthodoxws.com" target="new">Orthodox Web Solutions</a></div>
+	<div id="T19_footer_links" class="CAPTION_TEXT pr-2 pt-3"><a href="https://www.roea.org/">Home</a> | <a href="javascript:history.back()">Back</a>  | <a href="#TOP">Top</a></div>
+</div></div></div></div>
+
+
+
+
+</div></div></div></div>
+
+
+
+
+<!------- SIDE PANELS ------->
+
+
+			 		
+
+
+
+
+
+<!------- MIDDLE PANELS ------->
+
+
+			 		
+
+
+
+
+
+<!------- LOWER PANELS ------->
+
+			 		
+
+
+
+
+
+
+
+
+<!------- BOTTOM PANELS ------->
+
+			 		
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+	<a  id="back-to-the-top" class="back-to-the-top bttt-positionLeft bttt-default " data-animation="easeInOutQuart" data-speed="1500" data-offset="150"><i class="fas fa-chevron-up" style="line-height: 48px;"></i></a>
+	<script src="/public/scripts/scroll-to-top/scripts/bttt.min.js" type="text/javascript"></script>	
+	<link rel="stylesheet" type="text/css" href="/public/scripts/scroll-to-top/css/bttt.black.css">
+		<style>
+	.back-to-the-top { background: black; color: #ffffff !important; }
+	.back-to-the-top:hover, .back-to-the-top:visited, .back-to-the-top:focus { color: #ffffff !important; }
+	.back-to-the-top.bttt-border { border: 2px solid black !important; background: #fff !important; color: black !important; }
+	.back-to-the-top.bttt-border:after { border: 1px solid black !important; }
+	</style>
+	
+
+
+<script type="text/javascript" language="javascript" ><!--
+
+$(document).ready(function() { 
+	
+toastr.options = {
+  "closeButton": false,
+  "debug": false,
+  "newestOnTop": false,
+  "progressBar": true,
+  "positionClass": "toast-bottom-right",
+  "preventDuplicates": false,
+  "onclick": null,
+  "showDuration": "300",
+  "hideDuration": "1000",
+  "timeOut": "5000",
+  "extendedTimeOut": "1000",
+  "showEasing": "swing",
+  "hideEasing": "linear",
+  "showMethod": "fadeIn",
+  "hideMethod": "fadeOut"
+}
+
+	
+	
+
+} );
+
+
+
+//--></script> 
+
+                        
+
+                        <div id="sm-callout" class="hidden d-none callout-bordered mt-1">
+                            <div class="media">
+                                <div id="sm-callout-icon-bg" class="media-left media-middle px-2">
+                                    <i id="sm-callout-icon" class=""></i>
+                                </div>
+                                <div class="media-body p-1">
+                                    <strong id="sm-callout-title"></strong>
+                                    <p id="sm-callout-message"></p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                          
+
+
+
+</body>
+
+</html>
+
+
+

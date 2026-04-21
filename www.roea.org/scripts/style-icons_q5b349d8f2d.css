@@ -1,0 +1,105 @@
+ a[href$=".pdf"], a[href$=".txt"], a[href$=".mp3"], a[href$=".aiff"], a[href$=".wav"], a[href$=".ogg"], a[href$=".wma"], a[href$=".pub"], a[href$=".zip"], a[href$=".rar"], a[href$=".ace"], a[href$=".tar.gz"], a[href$=".tgz"], a[href$=".mpg"], a[href$=".mpeg"], a[href$=".avi"], a[href$=".mv2"], a[href$=".mov"], a[href$=".mp4"], a[href$=".wmv"], a[href$=".swf"], a[href$=".xls"], a[href$=".xlsx"], a[href$=".doc"], a[href*="trackback"], a[http*="@"], a[href*="postcomment"], a[href*="respond"], a[href*="action=edit"], a[mailto*="@"], a[href*="mailto"], a[href$=".mid"], a[href$=".docx"]
+ {
+		padding-bottom:2px;
+		padding-left:22px;
+		padding-top:2px;
+		background:transparent;
+	}
+ a[href$=".pdf"]
+		{
+			background: url(/public/icons/page_white_acrobat.png) no-repeat scroll left center;
+		}
+ a[href$=".txt"]
+		{
+			background: url(/public/icons/page_white_text.png) no-repeat scroll left center;
+		}
+ a[href$=".mp3"], a[href$=".aiff"], a[href$=".wav"], a[href$=".ogg"], a[href$=".wma"], a[href$=".mid"]
+		{
+			background: url(/public/icons/music.png) no-repeat scroll left center;
+		}
+ a[href$=".zip"], a[href$=".rar"], a[href$=".ace"], a[href$=".tar.gz"], a[href$=".tgz"]
+		{
+			background: url(/public/icons/page_white_compressed.png) no-repeat scroll left center;
+		}
+ a[href$=".mpg"], a[href$=".mpeg"], a[href$=".avi"], a[href$=".mv2"], a[href$=".mov"], a[href$=".mp4"], a[href$=".wmv"]
+		{
+			background: url(/public/icons/film.png) no-repeat scroll left center;
+		}
+ a[href$=".swf"]
+		{
+			background: url(/public/icons/page_white_flash.png) no-repeat scroll left center;
+		}
+ a[href$=".xls"], a[href$=".xlsx"]
+		{
+			background: url(/public/icons/page_white_excel.png) no-repeat scroll left center;
+		}
+ a[href$=".doc"]
+		{
+			background: url(/public/icons/page_white_word.png) no-repeat scroll left center;
+		}
+ a[href$=".docx"]
+		{
+			background: url(/public/icons/page_white_word.png) no-repeat scroll left center;
+		}		
+ a[href*="trackback"]
+		{
+			background: url(/public/icons/link.png) no-repeat scroll left center;
+		}
+ a[http*="@"]
+		{
+			background: url(/public/icons/blank.png) no-repeat scroll left center;
+		}
+		/*
+ a[href*="rss2"], a[href*="atom"]
+		{
+			background: url(/public/icons/rss.png) no-repeat scroll left center;
+		}
+		*/
+ a[href*="postcomment"], a[href*="respond"]
+		{
+			background: url(/public/icons/comment.png) no-repeat scroll left center;
+		}
+ a[href*=".pub"]
+		{
+			background: url(/public/icons/page_white_publisher.png) no-repeat scroll left center;
+		}		
+ a[href*="action=edit"]
+		{
+			background: url(/public/icons/page_white_edit.png) no-repeat scroll left center;
+		}
+ a[mailto*="@"], a[href*="mailto"]
+		{
+			background: url(/public/icons/email.png) no-repeat scroll left center;
+		}
+		
+	a[href^="tel:"] 
+	{
+		background: url(/public/icons/phone.png) no-repeat scroll left center;
+		padding-bottom:2px;
+		padding-left:17px;
+		padding-top:2px;	
+	} 		
+
+ a[class*="pdf-pro-download pdf-pro-button"]
+ {
+		padding-bottom:0px;
+		padding-left:0px;
+		padding-top:0px;
+		background:transparent;
+ }
+ 
+ a.no-style-icon {
+ 		background-image: none;
+		padding-bottom02px;
+		padding-left:0px;
+		padding-top:0px;		
+ 	
+ 	
+	}
+
+/* Remove link-icon backgrounds for any link that contains an <i> tag 
+a:has(i) {
+    background: none !important;
+    padding-left: 0 !important;
+}
+*/

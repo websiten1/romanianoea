@@ -105,6 +105,14 @@
     ];
 
     var pathFile = (location.pathname.split('/').pop() || 'index.html').toLowerCase();
+    /* Clean-URL fallback: when Vercel strips the `.html`, pathFile may be
+       an empty string or a bare slug like "about". Normalize both. */
+    if (!pathFile || pathFile === '/') pathFile = 'index.html';
+    if (pathFile.indexOf('.') === -1) pathFile = pathFile + '.html';
+
+    /* Build ABSOLUTE paths so navigation works from any URL depth,
+       including after Vercel's cleanUrls rewrites. */
+    var navBase = isRo ? '/ro/' : '/';
 
     var menu = document.getElementById('primaryMenu');
     if (menu) {
@@ -113,7 +121,7 @@
         var li = document.createElement('li');
         if (pathFile === item.href.toLowerCase()) li.className = 'active';
         var a = document.createElement('a');
-        a.href = item.href;
+        a.href = navBase + item.href;
         a.textContent = item.label;
         li.appendChild(a);
         menu.appendChild(li);
@@ -163,11 +171,22 @@
       document.addEventListener('keydown', function (e) {
         if (e.key === 'Escape') closeMenu();
       });
+      /* Bulletproof link navigation from inside the drawer:
+         On iOS, animating the drawer away (transform) during a tap can
+         cancel the click and leave the user stranded. Trigger navigation
+         explicitly and defer the close animation until the next tick. */
       menu.addEventListener('click', function (e) {
         var a = e.target.closest && e.target.closest('a');
-        if (a && a.getAttribute('href') && a.getAttribute('href')[0] !== '#') {
+        if (!a) return;
+        var href = a.getAttribute('href');
+        if (!href) return;
+        if (href.charAt(0) === '#') return; // same-page anchor
+        if (a.target === '_blank' || /^(mailto:|tel:)/.test(href)) {
           closeMenu();
+          return;
         }
+        e.preventDefault();
+        setTimeout(function () { window.location.href = a.href; }, 0);
       });
     }
 
@@ -178,10 +197,10 @@
       var aux = document.createElement('div');
       aux.className = 'header-aux';
       aux.innerHTML =
-        '<a class="header-aux__link" href="about.html">' + labels.headerAbout + '</a>' +
-        '<a class="header-aux__link" href="hierarchs.html">' + labels.headerHier + '</a>' +
-        '<a class="header-aux__link" href="news.html">' + labels.headerNews + '</a>' +
-        '<a class="header-aux__cta"  href="donate.html">' + labels.donate + '</a>';
+        '<a class="header-aux__link" href="' + navBase + 'about.html">' + labels.headerAbout + '</a>' +
+        '<a class="header-aux__link" href="' + navBase + 'hierarchs.html">' + labels.headerHier + '</a>' +
+        '<a class="header-aux__link" href="' + navBase + 'news.html">' + labels.headerNews + '</a>' +
+        '<a class="header-aux__cta"  href="' + navBase + 'donate.html">' + labels.donate + '</a>';
       var t = nav.querySelector('.nav-toggle');
       if (t) nav.insertBefore(aux, t);
       else nav.appendChild(aux);

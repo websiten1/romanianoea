@@ -372,8 +372,8 @@ h4 { font-size: 1.1rem; }
   align-items: center;
   gap: 8px;
 }
-.news-card__more::after { content: "→"; transition: transform .25s ease; }
-.news-card__more:hover::after { transform: translateX(4px); }
+.news-card__more::after { content: ""; }
+.news-card__more:hover { letter-spacing: .17em; }
 
 /* ---------- Hierarch feature ---------- */
 .hierarch {
@@ -998,7 +998,7 @@ form.contact-form input:focus, form.contact-form textarea:focus { border-color: 
   color: #3a2a2a;
 }
 .camp-card ul li::before {
-  content: "✦  ";
+  content: "—  ";
   color: var(--gold);
 }
 
@@ -1853,13 +1853,9 @@ body.v2 .btn {
   transition: all .25s ease;
 }
 body.v2 .btn::after {
-  content: "↗";
-  font-size: .9rem;
-  letter-spacing: 0;
-  transition: transform .25s ease;
+  content: "";
 }
 body.v2 .btn:hover { background: var(--accent); color: #fff; }
-body.v2 .btn:hover::after { transform: translate(2px, -2px); }
 body.v2 .btn-gold {
   background: var(--accent);
   border-color: var(--accent);
@@ -1998,13 +1994,8 @@ body.v2 .news-card__more {
   gap: 8px;
   align-self: flex-start;
 }
-body.v2 .news-card__more::after {
-  content: "↗";
-  font-size: .9rem;
-  letter-spacing: 0;
-  transition: transform .25s ease;
-}
-body.v2 .news-card__more:hover::after { transform: translate(2px, -2px); }
+body.v2 .news-card__more::after { content: ""; }
+body.v2 .news-card__more:hover { letter-spacing: .26em; }
 
 /* ---- Section--dark (hierarch feature) ---- */
 body.v2 .section--dark {
@@ -2590,9 +2581,7 @@ body.v2 .header-aux a.header-aux__cta {
   align-items: center;
   gap: 8px;
 }
-body.v2 .header-aux a.header-aux__cta::after {
-  content: "↗"; font-size: .85rem; letter-spacing: 0;
-}
+body.v2 .header-aux a.header-aux__cta::after { content: ""; }
 body.v2 .header-aux a.header-aux__cta:hover { background: #fff; color: var(--accent); }
 
 @media (max-width: 1100px) {
@@ -3333,7 +3322,7 @@ body.v2 .page-hero .lead { text-align: left; }
   text-decoration: none;
   transition: all .25s ease;
 }
-.section__more a::after { content: "↗"; letter-spacing: 0; }
+.section__more a::after { content: ""; }
 .section__more a:hover { background: var(--accent); color: #fff; }
 
 /* ---- Buttons (extra tightening) ---- */

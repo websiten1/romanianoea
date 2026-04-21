@@ -208,5 +208,74 @@
       overlay.classList.remove('is-visible');
       document.body.classList.remove('no-scroll', 'drawer-open');
     });
+
+    /* --------------------------------------------------------------
+       Footer — rebuild every page footer from a single source of
+       truth so labels match the simplified drawer menu. No logo.
+       Burgundy surface, white type.
+       -------------------------------------------------------------- */
+    var footer = document.querySelector('.site-footer');
+    if (footer) {
+      var footerLabels = isRo
+        ? {
+            eyebrow: 'Est. 1929 · Vatra Rom&acirc;nească, Grass Lake, Michigan',
+            title: 'Episcopia Ortodoxă Rom&acirc;nă a Americii',
+            nav: [
+              { label: 'Despre', href: 'about.html' },
+              { label: 'Ierarhi', href: 'hierarchs.html' },
+              { label: 'Istorie', href: 'vatra.html' },
+              { label: 'Tineret', href: 'youth.html' },
+              { label: 'Știri', href: 'news.html' },
+              { label: 'Pastorala 2026', href: 'pastoral-letter-2026.html' },
+              { label: 'Organizare', href: 'structure.html' },
+              { label: 'Contact', href: 'contact.html' },
+              { label: 'Donează', href: 'donate.html' }
+            ],
+            address: '2535 Grey Tower Road · Jackson, MI 49201',
+            phone: '(517) 522-4800',
+            rights: '© 2026 Episcopia Ortodoxă Rom&acirc;nă a Americii · Toate drepturile rezervate.'
+          }
+        : {
+            eyebrow: 'Est. 1929 · Vatra Rom&acirc;nească, Grass Lake, Michigan',
+            title: 'Romanian Orthodox Episcopate of America',
+            nav: [
+              { label: 'About', href: 'about.html' },
+              { label: 'Hierarchs', href: 'hierarchs.html' },
+              { label: 'History', href: 'vatra.html' },
+              { label: 'Youth', href: 'youth.html' },
+              { label: 'News', href: 'news.html' },
+              { label: 'Pastoral Letter 2026', href: 'pastoral-letter-2026.html' },
+              { label: 'Organization', href: 'structure.html' },
+              { label: 'Contact', href: 'contact.html' },
+              { label: 'Donate', href: 'donate.html' }
+            ],
+            address: '2535 Grey Tower Road · Jackson, MI 49201',
+            phone: '(517) 522-4800',
+            rights: '© 2026 Romanian Orthodox Episcopate of America · All rights reserved.'
+          };
+
+      var navHtml = footerLabels.nav.map(function (item) {
+        return '<a href="' + item.href + '">' + item.label + '</a>';
+      }).join('<span class="footer-nav__dot" aria-hidden="true"></span>');
+
+      footer.innerHTML =
+        '<div class="container footer-inner">' +
+          '<div class="footer-rule" aria-hidden="true"></div>' +
+          '<span class="footer-eyebrow">' + footerLabels.eyebrow + '</span>' +
+          '<h3 class="footer-title">' + footerLabels.title + '</h3>' +
+          '<nav class="footer-nav" aria-label="Footer">' + navHtml + '</nav>' +
+          '<div class="footer-contact">' +
+            '<span>' + footerLabels.address + '</span>' +
+            '<span class="footer-sep" aria-hidden="true"></span>' +
+            '<span>' + footerLabels.phone + '</span>' +
+          '</div>' +
+          '<div class="socials">' +
+            '<a href="https://www.facebook.com/ROEofA" aria-label="Facebook">F</a>' +
+            '<a href="https://twitter.com/ROEofA" aria-label="Twitter">T</a>' +
+            '<a href="https://www.youtube.com/user/RomanianDioceseROEA" aria-label="YouTube">Y</a>' +
+          '</div>' +
+          '<div class="copyright">' + footerLabels.rights + '</div>' +
+        '</div>';
+    }
   });
 })();

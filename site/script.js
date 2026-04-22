@@ -34,6 +34,8 @@
           home: 'Acasă', about: 'Despre Episcopie', hierarchs: 'Ierarhi',
           history: 'Istorie', youth: 'Tineret',
           news: 'Știri', letter: 'Pastorala 2026',
+          calendar: 'Calendar Ortodox',
+          chancery: 'Cancelarie',
           structure: 'Organizare', contact: 'Contact',
           donate: 'Donează',
           drawerEyebrow: 'Navigare',
@@ -50,6 +52,8 @@
           home: 'Home', about: 'About', hierarchs: 'Hierarchs',
           history: 'History', youth: 'Youth',
           news: 'News', letter: 'Pastoral Letter 2026',
+          calendar: 'Orthodox Calendar',
+          chancery: 'Chancery',
           structure: 'Organization', contact: 'Contact',
           donate: 'Donate',
           drawerEyebrow: 'Navigation',
@@ -71,6 +75,8 @@
       { label: labels.youth,     href: 'youth.html' },
       { label: labels.news,      href: 'news.html' },
       { label: labels.letter,    href: 'pastoral-letter-2026.html' },
+      { label: labels.calendar,  href: 'orthodox-calendar.html' },
+      { label: labels.chancery,  href: 'chancery.html' },
       { label: labels.structure, href: 'structure.html' },
       { label: labels.contact,   href: 'contact.html' }
     ];
@@ -260,6 +266,8 @@
               { label: 'Tineret', href: 'youth.html' },
               { label: 'Știri', href: 'news.html' },
               { label: 'Pastorala 2026', href: 'pastoral-letter-2026.html' },
+              { label: 'Calendar Ortodox', href: 'orthodox-calendar.html' },
+              { label: 'Cancelarie', href: 'chancery.html' },
               { label: 'Organizare', href: 'structure.html' },
               { label: 'Contact', href: 'contact.html' },
               { label: 'Donează', href: 'donate.html' }
@@ -278,6 +286,8 @@
               { label: 'Youth', href: 'youth.html' },
               { label: 'News', href: 'news.html' },
               { label: 'Pastoral Letter 2026', href: 'pastoral-letter-2026.html' },
+              { label: 'Orthodox Calendar', href: 'orthodox-calendar.html' },
+              { label: 'Chancery', href: 'chancery.html' },
               { label: 'Organization', href: 'structure.html' },
               { label: 'Contact', href: 'contact.html' },
               { label: 'Donate', href: 'donate.html' }
